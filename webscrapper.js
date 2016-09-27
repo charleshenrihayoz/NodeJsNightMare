@@ -15,12 +15,12 @@ var formsToGet =
             "Prix": "#price"
         };
 
-var imageToGet = [];
+var imageToGet = ['.prod-im-sm-front a'];
 
-var formstoTranslate = [];
-var lang = [];
+var formstoTranslate = ["Titre"];
+var lang = ['fr'];
 var category = "";
-
+var utf8 = require('utf8');
 var cheerio = require("cheerio");
 var request = require("request");
 var bt = require('bing-translate').init({
@@ -72,6 +72,7 @@ function getProduct(url, call)
         }
     }, function (error, response, body) {
         var $ = cheerio.load(body);
+
         var object = {}
         for (var key in formsToGet) {
             var temp = formsToGet[key];
@@ -79,19 +80,36 @@ function getProduct(url, call)
 
         }
         object.image = [];
+        object.url = response.request.uri.href;
         var compteur = 0;
         for (var key in imageToGet)
         {
-            var temp = imageToGet[key];
-            $(temp).each(function (i, elem) {
+            var elem = imageToGet[key];
+            $(elem).each(function () {
                 var src = $(this).attr("src");
-                var chemin = object.Titre + compteur + ".png";
-                object.image.push(chemin);
-                download(src, chemin, function () {
-                    console.log('done');
-                });
-                compteur++;
+                if (typeof src == 'undefined')
+                {
+
+                    src = $(this).attr("href");
+                }
+                console.log(src);
+                if (typeof src != 'undefined')
+                {
+
+
+                    var chemin = "\\images\\" + object.Titre + compteur + ".png";
+                    object.image.push(chemin);
+
+                    download(src, chemin, function () {
+                       // console.log('done');
+                    });
+                    compteur++;
+                }
+
             });
+
+
+
         }
         list_product.push(object);
         if (call)
@@ -107,22 +125,28 @@ function getProduct(url, call)
 
 var download = function (uri, filename, callback) {
     request.head(uri, function (err, res, body) {
-        console.log('content-type:', res.headers['content-type']);
-        console.log('content-length:', res.headers['content-length']);
+        //console.log('content-type:', res.headers['content-type']);
+        //console.log('content-length:', res.headers['content-length']);
 
-        request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+        request(uri).pipe(fs.createWriteStream(__dirname + filename)).on('close', callback);
     });
 };
 
-
-function treatment()
+function jsonText (tableau)
 {
-    var intouche = list_product;
-    var string = JSON.stringify(intouche);
+    var string = JSON.stringify(tableau);
     string = string.replace(/\\r/g, ' ');
     string = string.replace(/\\t/g, ' ');
 
     string = string.replace(/\\n/g, ' \n ');
+    return string;
+}
+
+function treatment()
+{
+    var intouche = list_product;
+    
+    var string = jsonText (list_product);
     writeFile("en.txt", string);
     lang.forEach(function (element, index)
     {
@@ -131,28 +155,43 @@ function treatment()
 
     //console.log(string);
 
-    /*bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
+    bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
      console.log(res['translated_text']);
-     });*/
-}
-;
+     });
+};
+
+
 //hehehtest
 function traduction(tableau, language)
 {
-    tableau.forEach(function (object, index)
+    var max = tableau.length;
+    tableau.forEach(function (object, indexTab)
     {
-        formstoTranslate.forEach(function (element, index)
-        {
-
-            var string = object[element];
-        });
         
+        formstoTranslate.forEach(function (element, indexForm)
+        {
+            var maxF = formstoTranslate.length;
+            var string = utf8.encode(object[element]);
+             console.log (string);
+            
+            bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
+                console.log (err+" "+res['translated_text']);
+                tableau[indexTab][element] = res['translated_text'];
+                
+                if (indexTab +1 == max && indexForm +1 == maxF)
+                {
+                    writeFile(language+".txt", jsonText(tableau));
+                } 
+                 
+            });
+        });
+
     });
 }
-
+var fs = require('fs');
 function writeFile(filename, string)
 {
-    var fs = require('fs');
+
     fs.writeFile(__dirname + "\\" + filename, string, function (err) {
         if (err) {
             return console.log(err);
