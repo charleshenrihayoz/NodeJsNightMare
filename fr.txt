@@ -1,4 +1,4 @@
-[{"Description":"  
+[{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=3444.V2_Json.Translate.4B8669CF","Titre":"Real Aloe Inc., Aloe Vera Spray, 8 oz (227 ml)","Description":"  
                            
                                    
                                        
@@ -6,17 +6,7 @@
                                            
                                              Description  
                                            
-                                          
-   Soothing Moisturizer 
-   Best Value 
-   Enhanced with Polysaccharide-Rich Aloesorb 
-  
- Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application. 
-  
-   Made with Certified Organic Aloe Vera Juice/Gel 
-   No Parabens 
-   No Artificial Colors 
-   
+                                           The Only Real Aloe Vera  Organically Grown Aloe Vera  Made in the U.S.A.  Gluten Free  Vegan Certified  Certified Organic  Non-GMO Project VerifiedWe take our inspiration from Nature, selecting all natural ingredients for all of our products and formulas.  
                                        
                                    
                                                                
@@ -25,7 +15,7 @@
                                              Suggested Use  
                                            
                                            
-                                             Apply to skin. Repeat as necessary.  
+                                             Apply RealAloe Spray to skin as needed. Relieves dry and  cracked skin, burns, shaving irritations, rashes and other minor skin  irritations.  
                                            
                                        
                                    
@@ -34,7 +24,7 @@
                                            
                                              Other Ingredients  
                                            
-                                         Organic aloe vera barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera juice (gel) concentrate, organic aloe vera barbadensis leaf polysaccharides (Aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), ascorbic acid (vitamin C), disodium EDTA (preservative), caprylyl glycol (emollient), phenoxyethanol (preservative), sorbic acid (preservative)  
+                                         Water (aqua), aloe barbadensis leaf juice, citric acid, potassium sorbate.  
                                        
                                    
                                                                
@@ -42,9 +32,7 @@
                                            
                                              Warnings  
                                            
-                                         No animal testing 
- Aloe vera is a natural plant; therefore, the color may change due to seasonal variations without affecting purity, efficacy or quality. 
- For topical use only.  
+                                         Not tested on animals  
                                        
                                    
    
@@ -57,8 +45,882 @@
                                
                            
                      ","Prix":"  
-         $5.09  
-        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 8 oz (228 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 8 oz (228 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-8-oz-228-g/55964"},{"Description":"  
+         $3.84  
+        ","image":["\\images\\Real Aloe Inc., Aloe Vera Spray, 8 oz (227 ml)0.png","\\images\\Real Aloe Inc., Aloe Vera Spray, 8 oz (227 ml)1.png"],"url":"http://www.iherb.com/Real-Aloe-Inc-Aloe-Vera-Spray-8-oz-227-ml/29036"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5641.V2_Json.Translate.48E8C975","Titre":"Lily of the Desert, Aloe Vera Gel, 32 fl oz (946 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   A Dietary Supplement 
+   Inner Fillet 
+   Enhanced with Polysaccharide-Rich Aloesorb 
+   Aloe Content & Purity in this Product - International Aloe Science Council Certified 
+   Kosher Pareve 
+   Contains 99% Organic Ingredients 
+  
+ Retaining the Quality that Nature Created 
+ The aloe vera plant contains over 200 biologically active components. For over 40 years, Lily of the Desert has been the leader through its technology and innovation of providing the most efficacious and scientifically validated aloe vera products on the market. 
+ Lily of the Desert Aloe Vera Benefits 
+  
+   Helps Support a Healthy Digestive System 
+   Helps Sustain and Promote Healthy Regularity 
+   Supports Normal Muscle and Joint Function 
+  
+ Aloesorb 
+ Naturally occurring high molecular weight aloe vera polysaccharides are isolated and then used to enhance the bio-availability of our regular strength aloe vera juice through a patent-pending process. 
+ Recent Clinical Studies of Lily of the Desert Products with Aloesorb demonstrated improved wellness benefits in healthy individuals such as: 
+  
+   Improved absorption of nutrients 
+   Supported healthy Immune System 
+   Enhanced antioxidant support 
+   Reduced toxic nitrate levels 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Drink 1-2 oz per serving, up to 8 oz daily. Take any time of day, with or without food, mixed with any drink. For digestive health, take 1/2 hr. before eating meals. Consume within 5-6 months after opening. 
+ Refrigerate after opening. 
+ For consumer safety, aloin content is filtered to less than 1 ppm.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Carrageenan (thickening agent), citric acid (pH stabilizer), potassium sorbate (mold inhibitor)  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Important Consumer Notice: 
+ This product is a natural product; therefore the color may change slightly due to seasonal variations without affecting purity, efficacy or quality.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                               
+                                   
+                                         
+         
+     Supplement Facts    
+       
+    
+     Serving Size: 2 fl oz. (59 ml) 
+    
+    
+     Serving Per Container: 16 
+      
+      
+          
+     Amount Per Serving  
+     % Daily Value*     
+      
+         
+     Calories      
+     4      
+          
+       
+         
+     Sodium      
+     30 mg      
+     1%    
+       
+         
+     Total Carbohydrates      
+     1 g      
+     <1%    
+       
+        
+     Calcium      
+     25 mg      
+     2%    
+       
+         
+     Magnesium      
+     4 mg      
+     1%    
+    
+    
+     Organic Aloe Vera Fillet Juice 
+     58 ml 
+     † 
+    
+    
+     Organic Polysaccharide Rich Aloesorb 
+     60 mg 
+     † 
+    
+         
+     * Percent Daily Values are based on a 2,000 calorie diet. 
+     † Daily Value not Established.    
+     
+   
+                                   
+                               
+                     ","Prix":"  
+         $10.50  
+        ","image":["\\images\\Lily of the Desert, Aloe Vera Gel, 32 fl oz (946 ml)0.png","\\images\\Lily of the Desert, Aloe Vera Gel, 32 fl oz (946 ml)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-Aloe-Vera-Gel-32-fl-oz-946-ml/6546"},{"0":"Aloe Vera de George, Aloe Spray Mister, 8 onces (236 ml)","Titre":"George's Aloe Vera, Aloe Spray Mister, 8 fl oz (236 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Since 1979 
+   \"Always Active\" Aloe 
+   Refreshing 
+   Sunburn Relief 
+   No Mess 
+   No Preservatives 
+   Use Under Makeup 
+  
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                              
+   Spray on generously 
+   Allow to soak in 
+   Reapply as needed 
+   
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         100% \"always active\" aloe vera distillate  
+                                       
+                                   
+                               
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $5.95  
+        ","image":["\\images\\George's Aloe Vera, Aloe Spray Mister, 8 fl oz (236 ml)0.png","\\images\\George's Aloe Vera, Aloe Spray Mister, 8 fl oz (236 ml)1.png"],"url":"http://www.iherb.com/George-s-Aloe-Vera-Aloe-Spray-Mister-8-fl-oz-236-ml/44031"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=6346.V2_Json.Translate.4C09E14A","Titre":"Nature Republic, Aloe Vera, Soothing & Moisture Aloe Vera Foam Cleanser, 5.07 fl oz (150 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                           Soothing & Moisture Aloe Vera Foam Cleanser The foam cleanser removes impurities from your skin with its creamy foam, which contains aloe vera extract.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Take a proper amount on the palm, wet with water, rub sufficiently to make lather and apply all over the face, and then rinse off with warm water.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Water, glycerin, stearic acid. myristic acid, peg-32, potassium hydroxide, lauric acid, butylene glycol, cocamidopropyl betaine, glyceryl stearate, peg-100 stearate, sodium laureth sulfate, peg-75 aloe barbadensis leaf extract, tea-lauryl sulfate, fragrance (parfum), disodium edta, caramel, sodium benzoate, yellow 5 (cl 19140), methylchloroisothiazolinone, blue 1 (cl 42090), methylisothiazolinone  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only. Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear. Keep out of reach of children. Replace the cap after use.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $8.95  
+        ","image":["\\images\\Nature Republic, Aloe Vera, Soothing & Moisture Aloe Vera Foam Cleanser, 5.07 fl oz (150 ml)0.png","\\images\\Nature Republic, Aloe Vera, Soothing & Moisture Aloe Vera Foam Cleanser, 5.07 fl oz (150 ml)1.png"],"url":"http://www.iherb.com/Nature-Republic-Aloe-Vera-Soothing-Moisture-Aloe-Vera-Foam-Cleanser-5-07-fl-oz-150-ml/68399"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5217.V2_Json.Translate.4C5D440D","Titre":"Home Health, Psoriasis Cream, 2 oz (56 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Natural Health Begins at Home 
+   2% Salicylic Acid 
+   Paraben-Free 
+   Absorbs Quickly 
+   Guaranteed Quality, Laboratory Tested 
+  
+ Uses For Relief Of: 
+  
+   Itching 
+   Irritation 
+   Redness 
+   Scaling associated with Psoriasis 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                              
+   Wash affected areas with an antiseptic soap and water, pat dry. 
+   Apply Psoriasis Cream one to four times daily, or as directed by a physician. 
+   
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                          No parabens, no preservatives, no mineral oil, no petroleum, no artificial color, no artificial fragrance, no gluten.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only. 
+ Ask a doctor before use if condition covers a large area of the body. 
+ When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. 
+ Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. 
+ Keep out of reach of children. 
+ If swallowed, get medical help or contact a poison control center right away.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                               
+                                   
+                                      
+    
+     Drug Facts 
+    
+    
+     Active Ingredient 
+     Purpose 
+    
+    
+     Salicylic acid 2.0% 
+     Psoriasis 
+    
+    
+     Inactive Ingredients: 
+     Allantoin, beeswax, cetyl alcohol, citrus grandis (grapefruit) fruit extract, cod liver oil, cymbopogon schoenanthus oil, echinacea angustifolia extract, rosa canina fruit oil, rumex crispus root extract, simmondsia chinensis (jojoba) seed oil, smilax aristolochiifolia root extract, stearic acid, tocopheryl acetate (vitamin E acetate), triethanolamine, water. 
+    
+   
+                                   
+                               
+                     ","Prix":"  
+         $11.15  
+        ","image":["\\images\\Home Health, Psoriasis Cream, 2 oz (56 g)0.png","\\images\\Home Health, Psoriasis Cream, 2 oz (56 g)1.png"],"url":"http://www.iherb.com/Home-Health-Psoriasis-Cream-2-oz-56-g/6448"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5043.V2_Json.Translate.4CB1EAE7","Titre":"Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                           
+   Natural & Organic Ingredients    
+   Everyday Formula 
+   Soothes and Moisturizes Dry & Chapped Skin 
+   Relieves Minor Skin Irritations, Insect Bites & Sunburn  
+   Fragrance Free 
+   PH Balanced 
+   Paraben Free 
+   Glycol Free 
+   Beautiful Skin Naturally 
+   The Best of Nature for Nourished Beauty 
+   Cruelty-Free 
+   
+ All the amazing properties of pure Aloe Vera are carefully extracted from the Aloe Vera plant and are completely intact in this convenient tube. We add Cucumber to help keep the skin toned, fresh and soft. Also Comfrey and Allantoin to further assist the skin's healing process. This moisture rich, quick absorbing Aloe Vera Gel helps soothe and moisturize dry skin and relieve skin irritations, minor burns, insect bites, and sunburn. A cooling aftershave balm for men and women. 
+ Come to Mill Creek... 
+ Where Nature Makes a Difference  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply the gel directly onto skin abrasions, cuts, sunburns, rashes, and insect bites to help fight bacteria and avoid infection.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Aloe vera gel (organic), deionized water, cucumber extract, comfrey extract, allantoin, carbomer, tetrasodium EDTA, triethanolamine, oleth-20, potassium sorbate, sodium benzoate, essential oils. 
+ pH balanced.  
+ *Certified Organic ingredient by BCS OKO - Garanite  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $4.97  
+        ","image":["\\images\\Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)0.png","\\images\\Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)1.png"],"url":"http://www.iherb.com/Mill-Creek-99-Aloe-Vera-Gel-6-fl-oz-180-ml/6593"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=3444.V2_Json.Translate.4B866E7A","Titre":"Eucerin, Original Healing, Rich Lotion, Fragrance Free, 16.9 fl oz (500 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Dermatologist Recommended - Eucerin Since 1900 
+   Sensitive Skin Experts 
+   Rich Lotion - For Very Dry, Compromised Skin 
+   Fragrance Free 
+  
+ Rich Emollient formula, seals in moisture to protect & heal very dry, compromised skin. 
+ Sensitive Skin Experts 
+ For over 100 years, Eucerin has pioneered skincare innovation, and today we are recognized and trusted by dermatologists as one of the leading and most recommended brands. Our products are designed to protect, repair, and enhance the health of skin - Giving you and your family the feeling of confidence that comes from radiant, healthy looking skin. 
+ Eucerin Original Healing Rich Lotion 
+ Heal very dry skin with Eucerin's Original Healing Lotion. Specially designed to soothe and moisturize extremely dry, rough skin, the rich emollient formula uses simple, trusted ingredients, and no irritating fragrances or dyes. Moisturizes all day and protects skin from drying out. 
+  
+   Original healing lotion seals in moisture to restore and protect very dry, compromised skin 
+   Relieves very dry skin associated with eczema, psoriasis, or drying medications 
+   Provides 24 hours moisture 
+   Dermatologist recommended brand 
+   Fragrance free, paraben free, won't clog pores 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Smooth over very dry, sensitive skin every day, or as directed by a physician. For best results, apply immediately after bathing or showering.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Water, mineral oil, isopropyl palmitate, sorbitol, propylene glycol, diisostearoyl polyglyceryl-3 dimer dilinoleate, polyglyceryl-4 diisostearate/polyhydroxystearate/sebacate, cetyl palmitate, magnesium sulfate, aluminum stearates, phenoxyethanol, lanolin alcohol, sodium citrate, citric acid, potassium sorbate.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Keep out of reach of children. For external use only. Avoid contact with eyes. Discontinue use if irritation occurs.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $13.89  
+        ","image":["\\images\\Eucerin, Original Healing, Rich Lotion, Fragrance Free, 16.9 fl oz (500 ml)0.png","\\images\\Eucerin, Original Healing, Rich Lotion, Fragrance Free, 16.9 fl oz (500 ml)1.png"],"url":"http://www.iherb.com/Eucerin-Original-Healing-Rich-Lotion-Fragrance-Free-16-9-fl-oz-500-ml/45774"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5005.V2_Json.Translate.4B586B29","Titre":"Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Soothing Moisturizer 
+   Enhanced with Polysaccharide-Rich Aloesorb 
+   Made with Certified Organic Aloe Vera Juice/Gel 
+   No Parabens 
+   No Artificial Colors 
+   No Animal Testing 
+  
+ Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application. 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply to skin. Repeat  as necessary. 
+   
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Organic aloe vera  barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera  juice (gel) concentrate, organic aloe vera barbadensis leaf polysaccharides  (aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A),  ascorbic acid (vitamin C), disodium EDTA (preservative), caprylyl glycol  (emollient), phenoxyethanol (preservative), sorbic acid (preservative). 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Aloe vera is a natural  plant; therefore, the color may change due to seasonal variations without  effecting purity, efficacy or quality. 
+ For topical use only. 
+   
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $3.50  
+        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-4-oz-114-g/55961"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5217.V2_Json.Translate.4C5D440E","Titre":"Jason Natural, Moisturizing Gel, Aloe Vera, 16 oz (454 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                             
+   Natural Pioneer Since 1959 
+   Soothing 98% Aloe Vera 
+   Pure Natural 
+   NO: Parabens, SLS, or Phthalates 
+   Certified Aloe Content & Purity in this Product - International Aloe Science Council 
+   New Look Same- Great Formula  
+   
+  This concentrated, non-oily daily moisturizing gel naturally delivers instant dry skin relief. Natural Aloe Vera Gel soothes dry, irritated, sun damaged or newly shaven skin while a boost of nourishing Allantoin and Vitamin B5 replenish and recondition. With use, skin is calmed, balanced and nurtured back to its healthy-looking best. 
+ Born in 1959, Jason was one of the first to offer natural products without harsh chemicals. For over 50 years, we have delivered wholesome, no-nonsense, natural products that happen to really work. Our products don't contain petrolatum, sodium lauryl or laureth sulfates (SLS), parabens or phthalates. And we never test our formulas on animals. We invite you to try our entire line of safe, effective, body-loving products.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             After cleansing or shaving, apply to dry skin.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Aloe barbadensis leaf juice*, aqua (water), carbomer, gluconolactone, potassium hydroxide, glycerin, arginine, allantoin, panthenol, menthol, sodium phytate, polysorbate 20, phenoxyethanol, sodium benzoate, amyl cinnamal, benzyl benzoate, benzyl salicylate, hexyl cinnamal, limonene, linalool, fragrance (parfum) 
+ *Certified Organic Ingredient  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Caution: For external use only. Keep out of reach of children. Avoid contact with eyes. If rash or irritation occurs, stop use and consult physician.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $10.76  
+        ","image":["\\images\\Jason Natural, Moisturizing Gel, Aloe Vera, 16 oz (454 g)0.png","\\images\\Jason Natural, Moisturizing Gel, Aloe Vera, 16 oz (454 g)1.png"],"url":"http://www.iherb.com/Jason-Natural-Moisturizing-Gel-Aloe-Vera-16-oz-454-g/6226"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=6346.V2_Json.Translate.4C09E146","Titre":"Home Health, Psoriasis, Medicated Scalp and Body Wash, 8 fl oz (236 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Natural Health Begins at Home 
+   2% Salicylic Acid 
+   With Carrot Oil, Jojoba Oil, Aloe Vera, Allantoin and Herbal Extracts 
+   For the Relief of Itching, Redness, Irritation and Scaling Associated with Psoriasis, Dandruff and Seborrheic Dermatitis 
+   Gentle Cleansing Formula Effective for Scalp and Body 
+   Contains No Artificial Preservatives or Colors 
+   Paraben-Free 
+   Guaranteed Quality, Laboratory Tested 
+  
+ Uses  For relief of: 
+  
+   itching 
+   irritation 
+   redness 
+   scaling associated with Psoriasis 
+  
+ Psoriasis Medicated Scalp and Body Wash helps fight the itching, redness, irritation and scaling associated with psoriasis, dandruff and seborrheic dermatitis. The active ingredient, Salicylic Acid, is combined with a soothing, moisturizing base that includes the following natural ingredients: Allantoin, Aloe Vera Gel, Carrot Oil, Echinacea Extract and Jojoba Oil. 
+ At Home Health, years of research have gone into creating truly effective personal care products based on traditional, natural ingredients. You can rely on Home Health to deliver the natural health products your family deserves.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                              
+   For best results apply daily or as directed by a physician 
+   Shake well before using 
+   Moisten affected area with lukewarm water 
+   Massage liberal amount of product to affected area in place of soap 
+   Rinse thoroughly and pat dry 
+  
+ Contents may separate when left standing. Shake vigorously.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         No parabens, no preservatives, no mineral oil, no petroleum, no artificial color, no artificial fragrance, no animal products, no gluten.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only. 
+ Ask a doctor before use if you have psoriasis that covers a large area of the body. 
+ When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. 
+ Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. 
+ Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away. 
+ Store in a cool, dry place.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                               
+                                   
+                                      
+    
+     Active Ingredient 
+     Purpose 
+    
+    
+     Salicylic acid 2.0% 
+     Psoriasis 
+    
+    
+     Inactive Ingredients: allantoin, aloe barbadensis leaf juice, chamomilla recutita (matricaria) extract, citrus grandis (grapefruit) fruit extract, citrus medica limonum (lemon) peel oil, daucus carota sativa (carrot) seed oil, echinacea purpurea extract, equisetum hyemale extract, glycol stearate, honey extract, humulus lupulus (hops) extract, hydroxypropyl methylcellulose, lauramide DEA, lawsonia inermis (henna) extract, propylene glycol, purified water, rosmarinus officinalis (rosemary) leaf extract, simmondsia chinensis (jojoba) seed oil, sodium chloride, sodium myreth sulfate, TEA-lauryl sulfate, triethanolamine, urtica dioica (nettle) extract. 
+    
+   
+                                   
+                               
+                     ","Prix":"  
+         $10.07  
+        ","image":["\\images\\Home Health, Psoriasis, Medicated Scalp and Body Wash, 8 fl oz (236 ml)0.png","\\images\\Home Health, Psoriasis, Medicated Scalp and Body Wash, 8 fl oz (236 ml)1.png"],"url":"http://www.iherb.com/Home-Health-Psoriasis-Medicated-Scalp-and-Body-Wash-8-fl-oz-236-ml/6489"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=6346.V2_Json.Translate.4C09E3BD","Titre":"Jason Natural, Pure Natural Moisturizing Gel, Soothing 98% Aloe Vera, 4 oz (113 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Natural Pioneer Since 1959 
+   No: Parabens, SLS or Phthalates 
+   Certified Aloe Content & Purity in This Product - International Aloe Science Council 
+  
+ This concentrated, non-oily daily moisturizing gel naturally delivers instant dry skin relief. Natural Aloe Vera Gel soothes dry, irritated, sun damaged or newly shaven skin while a boost of nourishing Allantoin and Vitamin B5 replenish and recondition. With use, skin is calmed, balanced and nurtured back to its healthy-looking best. 
+ Born in 1959, Jason brand was one of the first to offer natural products without harsh chemicals. For over 50 years, we have delivered wholesome, no-nonsense, natural products that happen to really work. Our formulas don't contain petrolatum, sodium lauryl or laureth sulfates (SLS), parabens or phthalates. And we never test on animals. We invite you to try our entire line of safe, effective, body-loving products.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             After cleansing or shaving, apply to dry skin.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Aloe barbadensis leaf juice*, aqua (water), carbomer, gluconolactone, potassium hydroxide, glycerin, arginine, allantoin, panthenol, menthol, sodium phytate, polysorbate 20, phenoxyethanol, sodium benzoate, amyl cinnamal, benzyl benzoate, benzyl salicylate, hexyl cinnamal, limonene, linalool, fragrance (parfum). 
+ *Certified Organic Ingredient 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Caution: For external use only. Keep out of reach of children. Avoid direct contact with eyes. If rash or irritation occurs, stop use and consult physician. 
+ No animal testing  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $3.60  
+        ","image":["\\images\\Jason Natural, Pure Natural Moisturizing Gel, Soothing 98% Aloe Vera, 4 oz (113 g)0.png","\\images\\Jason Natural, Pure Natural Moisturizing Gel, Soothing 98% Aloe Vera, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Jason-Natural-Pure-Natural-Moisturizing-Gel-Soothing-98-Aloe-Vera-4-oz-113-g/20555"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5036.V2_Json.Translate.4B7A225B","Titre":"Derma E, Psorzema Cream, 4 oz (113 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Dry 
+   With Neem, Burdock, Bearberry and Vitamins A and E 
+   Natural Solution: Therapeutic Topicals 
+   Skincare Solutions 
+   Natural Ingredients 
+   Cruelty-Free 
+   Paraben-Free 
+   Eco-Friendly 
+   Soothes Dry Irritated Skin 
+   Reduces Scaling, Flaking and Itching 
+   Derma e is Family Owned and Operated 
+   Proven Natural Formulations Since 1984 
+   Gluten-Free/Vegan/pH Balanced 
+   Never Any Harmful Parabens, Phthalates, Sodium Lauryl  Sulfate, Petrolatum, Mineral Oil or Artificial Colors 
+  
+ We’re serious about skincare and provide only the finest  natural products available. Every product we make is crafted with powerful,  active ingredients scientifically-proven to deliver noticeable results and  visible improvement. That’s why health-conscious people trust derma e for  natural, highly-concentrated skincare products that work. 
+ — Dr. Linda Miles L. Ac., D.O.M. 
+ Derma e natural  skincare:  Solutions that work 
+  
+   Psorzema Cream is a safe and effective blend of herbal  extracts and skin vitamins that provides natural relief from symptoms of  scaling and flaking. 
+   Helps soothe itching and irritated dry skin 
+   Contains no coal or pine tars and no steroids 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply liberally and use as often as desired to relieve symptoms.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Water (aqua), caprylic/capric triglyceride, melia azadirachta (neem) leaf extract, arctium lappa (burdock) root extract, zanthoxylum zanthoxyloides (fagara) bark extract, arctostaphylos uva ursi (bearberry) leaf extract, coptis chinensis (chinese golden thread) root extract, berberis aquifolium (barberry) extract, glycerin, stearic acid, glyceryl stearate and PEG-100 stearate, tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), allantoin, organic chamomilla recutita (matricaria) flower extract* (.1%), organic simmondsia chinensis (jojoba) seed oil* (.1%), polysorbate, cetyl alcohol, dimethicone, phenoxyethanol, ethylhexylglycerin, potassium sorbate. 
+ *Certified Organic by Quality Assurance International or USDA.  
+                                       
+                                   
+                               
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $15.80  
+        ","image":["\\images\\Derma E, Psorzema Cream, 4 oz (113 g)0.png","\\images\\Derma E, Psorzema Cream, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Derma-E-Psorzema-Cream-4-oz-113-g/11075"},{"0":"Nature Way, racine de mahonia, 500 mg, 90 Capsules","Titre":"Nature's Way, Oregon Grape Root, 500 mg, 90 Capsules","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Premium Herbal   
+   Certified 500 mg 
+   Dietary Supplement 
+  
+ Health & longevity through the healing power of nature - that's what it means to Trust the Leaf. 
+ Oregon Grape (Mahonia aquifolium) is also known as Holly Mountain Grape or Creeping Barberry. Its root contains the alkaline Berberine used during the winter season. 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Take 1 capsule three times daily, preferably with food.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Gelatin (capsule), magnesium stearate  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         As with many products consult a healthcare professional before taking this product if you are pregnant or nursing a baby.  
+ Satisfaction Guaranteed.Freshness & safety sealed with printed outer shrinkwrap and printed inner seal. Do not use if either seal is broken or missing. Keep out of reach of children.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                               
+                                   
+                                          
+       
+   Supplement Facts    
+     
+       
+   Serving Size: 1 Capsule    
+     
+       
+   Servings Per Container: 90    
+     
+       
+          
+   Amount Per Serving      
+   % Daily Value    
+     
+       
+   Oregon Grape (root)      
+   500 mg      
+   **    
+     
+       
+   **Daily Value not established.    
+   
+     
+                                   
+                               
+                     ","Prix":"  
+         $5.44  
+        ","image":["\\images\\Nature's Way, Oregon Grape Root, 500 mg, 90 Capsules0.png","\\images\\Nature's Way, Oregon Grape Root, 500 mg, 90 Capsules1.png"],"url":"http://www.iherb.com/Nature-s-Way-Oregon-Grape-Root-500-mg-90-Capsules/2023"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5107.V2_Json.Translate.4BCEBD6D","Titre":"Eucerin, Original Healing Rich Creme, Fragrance Free, 16 oz (454 g)","Description":"  
                            
                                    
                                        
@@ -125,7 +987,7 @@
                            
                      ","Prix":"  
          $17.45  
-        ","image":["\\images\\Eucerin, Original Healing Rich Creme, Fragrance Free, 16 oz (454 g)0.png","\\images\\Eucerin, Original Healing Rich Creme, Fragrance Free, 16 oz (454 g)1.png"],"url":"http://www.iherb.com/Eucerin-Original-Healing-Rich-Creme-Fragrance-Free-16-oz-454-g/45773"},{"Description":"  
+        ","image":["\\images\\Eucerin, Original Healing Rich Creme, Fragrance Free, 16 oz (454 g)0.png","\\images\\Eucerin, Original Healing Rich Creme, Fragrance Free, 16 oz (454 g)1.png"],"url":"http://www.iherb.com/Eucerin-Original-Healing-Rich-Creme-Fragrance-Free-16-oz-454-g/45773"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5639.V2_Json.Translate.4C4DA6B0","Titre":"Now Foods, Solutions, Aloe Soothing Gel, 8 fl oz (237 ml)","Description":"  
                            
                                    
                                        
@@ -134,22 +996,15 @@
                                              Description  
                                            
                                           
-   Dermatologist Recommended - Eucerin Since 1900 
-   Sensitive Skin Experts 
-   Rich Lotion - For Very Dry, Compromised Skin 
-   Fragrance Free 
+   After Sun Relief 
+   Soothes and Repairs Damaged Skin 
+   Multi-Purpose Formula 
+   Paraben Free 
+   Gluten Free 
+   NOW Solutions Products are not Tested on Animals 
   
- Rich Emollient formula, seals in moisture to protect & heal very dry, compromised skin. 
- Sensitive Skin Experts 
- For over 100 years, Eucerin has pioneered skincare innovation, and today we are recognized and trusted by dermatologists as one of the leading and most recommended brands. Our products are designed to protect, repair, and enhance the health of skin - Giving you and your family the feeling of confidence that comes from radiant, healthy looking skin. 
- Eucerin Original Healing Rich Lotion 
- Heal very dry skin with Eucerin's Original Healing Lotion. Specially designed to soothe and moisturize extremely dry, rough skin, the rich emollient formula uses simple, trusted ingredients, and no irritating fragrances or dyes. Moisturizes all day and protects skin from drying out. 
-  
-   Original healing lotion seals in moisture to restore and protect very dry, compromised skin 
-   Relieves very dry skin associated with eczema, psoriasis, or drying medications 
-   Provides 24 hours moisture 
-   Dermatologist recommended brand 
-   Fragrance free, paraben free, won't clog pores 
+ Condition: Skin in need of soothing or calming due to environmental factors that cause irritation, also for skin that has been injured or damaged. 
+ Solution: Aloe Soothing Gel is a refreshing and revitalizing formula with Organic Aloe Vera and Cucumber Extract to help naturally replenish healthy skin cells. Allantonin, L-Arginine and Vitamin E help to soothe and calm skin that has been exposed to the sun for too long, and help repair the damage that has been done. Panthenol penetrates into the skin to deeply moisturize. 
    
                                        
                                    
@@ -159,7 +1014,8 @@
                                              Suggested Use  
                                            
                                            
-                                             Smooth over very dry, sensitive skin every day, or as directed by a physician. For best results, apply immediately after bathing or showering.  
+                                             Apply gel to the skin as needed, over a sunburn or windburn to soothe irritation. Reapply as needed. 
+   
                                            
                                        
                                    
@@ -168,7 +1024,59 @@
                                            
                                              Other Ingredients  
                                            
-                                         Water, mineral oil, isopropyl palmitate, sorbitol, propylene glycol, diisostearoyl polyglyceryl-3 dimer dilinoleate, polyglyceryl-4 diisostearate/polyhydroxystearate/sebacate, cetyl palmitate, magnesium sulfate, aluminum stearates, phenoxyethanol, lanolin alcohol, sodium citrate, citric acid, potassium sorbate.  
+                                         Aloe vera (aloe babadensis) leaf gel*, de-ionized water, potassium carbomer, sodium hydroxymethyl glycinate, phenoxyethanol, cucumber (cucumis sativus) extract, allantoin, vegetable glycerin, panthenol (provitamin B-5), natural vitamin E (from mixed tocopherols) (soy), l-arginine and peppermint (mentha piperita) oil. 
+ *Certified Organic 
+   
+                                       
+                                   
+                               
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $6.10  
+        ","image":["\\images\\Now Foods, Solutions, Aloe Soothing Gel, 8 fl oz (237 ml)0.png","\\images\\Now Foods, Solutions, Aloe Soothing Gel, 8 fl oz (237 ml)1.png"],"url":"http://www.iherb.com/Now-Foods-Solutions-Aloe-Soothing-Gel-8-fl-oz-237-ml/16568"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5107.V2_Json.Translate.4BCEBC73","Titre":"Aubrey Organics, Pure Aloe Vera, 4 fl oz (118 ml)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Made with 98% Organic Ingredients 
+   All-Natural Ingredients 
+   Contents Biodegradable 
+   Vegan 
+   Certified Organic by QAI, Inc 
+  
+ One of nature's most effective skin soothers, aloe conditions and hydrates dry, rough or sun-exposed skin on contact. 
+ Extracted from the leaf of certified organic plants, our aloe vera does not resemble processed aloe. Because we use no artificial thickeners, its consistency and clarity may vary.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             To Use: Shake well before using. Apply to affected areas of the skin as needed. For topical use only. 
+ Refrigerate after opening for best results.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Aloe barbadensis (aloe) leaf juice*, citrus grandis (grapefruit) extract, cyamopsis tetragonoloba (guar) gum*, tocopherol (vitamin E). 
+ *Organic  
                                        
                                    
                                                                
@@ -176,7 +1084,7 @@
                                            
                                              Warnings  
                                            
-                                         Keep out of reach of children. For external use only. Avoid contact with eyes. Discontinue use if irritation occurs.  
+                                         No animal testing  
                                        
                                    
    
@@ -189,8 +1097,323 @@
                                
                            
                      ","Prix":"  
-         $13.89  
-        ","image":["\\images\\Eucerin, Original Healing, Rich Lotion, Fragrance Free, 16.9 fl oz (500 ml)0.png","\\images\\Eucerin, Original Healing, Rich Lotion, Fragrance Free, 16.9 fl oz (500 ml)1.png"],"url":"http://www.iherb.com/Eucerin-Original-Healing-Rich-Lotion-Fragrance-Free-16-9-fl-oz-500-ml/45774"},{"Description":"  
+         $7.57  
+        ","image":["\\images\\Aubrey Organics, Pure Aloe Vera, 4 fl oz (118 ml)0.png","\\images\\Aubrey Organics, Pure Aloe Vera, 4 fl oz (118 ml)1.png"],"url":"http://www.iherb.com/Aubrey-Organics-Pure-Aloe-Vera-4-fl-oz-118-ml/7579"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5641.V2_Json.Translate.48E8CBDE","Titre":"Eucerin, Baby, Eczema Relief, Body Creme, 5.0 oz (141 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   New! 
+   Dermatologist, Pediatrician Recommended Brand 
+   With Oatmeal, Ceramide-3 & Licochalcone 
+   Skin Protectant 
+   Fragrance, Dye & Steroid Free 
+   Dermatological Skincare 
+  
+ Clinically proven moisturizing relief for dry, irritated skin due to eczema 
+ Unique formula with Oatmeal, Ceramide-3 and Licochalcone intensively moisturizes and helps relieve dry, irritated skin and itching due to eczema 
+  
+   Natural oatmeal calms, dry, itchy, irritated skin 
+   Ceramide fortified formula strengthens the skin's barrier and improves the skin's condition 
+   Fragrance, dye and steroid free 
+   Licochalcone enriched formula, soothes and improves the appearance of red, irritated skin 
+   Appropriate for babies and children 
+   Dermatologist and pediatrician recommended brand 
+  
+ Uses 
+  
+   Temporarily protects and helps relieve minor skin irritation and itching due to 
+   rashes 
+   eczema 
+  
+ For mild to moderate eczema  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Directions 
+ Apply as needed or as directed by a doctor  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                             
+       
+   Drug Facts    
+  
+       
+   Active ingredients      
+   Purpose    
+     
+       
+   Colloidal Oatmeal 1.0%      
+   Skin Protectant    
+  
+       
+   Inactive Ingredients   Water, glycerin, ricinus communis (castor) seed oil, mineral oil, cetyl alcohol, glyceryl stearate, caprylic/capric triglyceride, octyldodecanol, cetyl palmitate, PEG-40 stearate, glycyrrhiza inflata root extract, ceramide 3, 1,2-hexanediol, phenoxyethanol, piroctone olamine, caprylyl glycol, ethylhexylglycerin, benzyl alcohol, citric acid.    
+   
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only 
+ When using this product 
+  
+   avoid contact with eyes 
+  
+ Stop use and ask a doctor if 
+  
+   condition worsens 
+   symptoms last more than 7 days or clear up and occur again within a few days 
+  
+ Keep out of reach of children. 
+ If swallowed, get medical help or contact a Poison Control Center right away.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $9.48  
+        ","image":["\\images\\Eucerin, Baby, Eczema Relief, Body Creme, 5.0 oz (141 g)0.png","\\images\\Eucerin, Baby, Eczema Relief, Body Creme, 5.0 oz (141 g)1.png"],"url":"http://www.iherb.com/Eucerin-Baby-Eczema-Relief-Body-Creme-5-0-oz-141-g/59496"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5107.V2_Json.Translate.4BCEBB7D","Titre":"Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Golden Seal-Myrrh 
+   No Testing on Animals 
+   No Animal Ingredients 
+  
+ The medicinal properties of Golden Seal and Myrrh Gum powder combine to make a most effective disinfecting ointment for psoriasis, eczema, hemorrhoids, burns, infections, cuts, wounds, scrapes, dry skin, etc. A natural salve no household should be without. The quick results will amaze you. 
+   
+                                       
+                                   
+                                                                                                                       
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only. Keep out of children's reach.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                               
+                                   
+                                     Safflower oil, sweet almond oil, beeswax, golden seal root, myrrh gum and vitamins E, A & D.  
+                                   
+                               
+                     ","Prix":"  
+         $6.00  
+        ","image":["\\images\\Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)0.png","\\images\\Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)1.png"],"url":"http://www.iherb.com/Country-Comfort-Herbal-Savvy-Golden-Seal-Myrrh-2-oz-57-g/6381"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5107.V2_Json.Translate.4BCEBC76","Titre":"Jason Natural, Moisturizing Creme, 4 oz (113 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                             
+   Natural Pioneer Since 1959 
+   Soothing 84% Aloe Vera 
+   Certified Aloe Content & Purity in This Product International Aloe Science Council 
+   
+ This botanically-rich daily creme naturally delivers deep, long-lasting moisturization and calms irritated skin. Highly concentrated Aloe Vera Gel plus natural Sweet Almond Oil and Vitamin E instantly soothe dry, irritated, sun damaged or newly shaven skin. With use, skin is calmed, balanced and nurtured back to its healthy-feeling best.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply daily on face and body. Massage thoroughly where needed.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Aloe barbadensis leaf juice*, aqua (water), helianthus annuus (sunflower) seed oil*, glycerin, stearic acid, cetyl alcohol, dimethicone, persea gratissima (avocado) oil, prunus amygdalus dulcis (sweet almond) oil, carbomer, methyl glucose sesquistearate, potassium cetyl phosphate, potassium hydroxide, sodium PCA, tocopheryl acetate, phenoxyethanol, potassium sorbate, sodium benzoate, amyl cinnamal, benzyl benzoate, benzyl salicylate, citral, geraniol, hexyl cinnamal, hydroxycitronellal, limonene, linalool, fragrance (parfum) 
+ *Certified Organic Ingredient. 
+ No parabans,SLS, petrolatum, artificial colors or phthalates  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         For external use only. Avoid contact with eyes. Keep out of the reach of children. 
+ No animal testing  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $7.20  
+        ","image":["\\images\\Jason Natural, Moisturizing Creme, 4 oz (113 g)0.png","\\images\\Jason Natural, Moisturizing Creme, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Jason-Natural-Moisturizing-Creme-4-oz-113-g/6234"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5107.V2_Json.Translate.4BCEBAB4","Titre":"Lily of the Desert, 99% Aloe Vera Gelly, 8 oz (228 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Soothing Moisturizer 
+   Best Value 
+   Enhanced with Polysaccharide-Rich Aloesorb 
+  
+ Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application. 
+  
+   Made with Certified Organic Aloe Vera Juice/Gel 
+   No Parabens 
+   No Artificial Colors 
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply to skin. Repeat as necessary.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Organic aloe vera barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera juice (gel) concentrate, organic aloe vera barbadensis leaf polysaccharides (Aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), ascorbic acid (vitamin C), disodium EDTA (preservative), caprylyl glycol (emollient), phenoxyethanol (preservative), sorbic acid (preservative)  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         No animal testing 
+ Aloe vera is a natural plant; therefore, the color may change due to seasonal variations without affecting purity, efficacy or quality. 
+ For topical use only.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $5.09  
+        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 8 oz (228 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 8 oz (228 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-8-oz-228-g/55964"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5641.V2_Json.Translate.48E8CA5B","Titre":"Lily of the Desert, 99% Aloe Vera Gelly, 12 oz (342 g)","Description":"  
+                           
+                                   
+                                       
+   
+                                           
+                                             Description  
+                                           
+                                          
+   Soothing Moisturizer 
+   Enhanced with Polysaccharide-Rich Aloesorb 
+   Made with Certified Organic Aloe Vera Juice/Gel 
+   No Parabens 
+   No Artificial Colors 
+   No Animal Testing 
+  
+ Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application.  
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Suggested Use  
+                                           
+                                           
+                                             Apply to skin. Repeat as necessary.  
+                                           
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Other Ingredients  
+                                           
+                                         Organic aloe vera barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera juice (gel) concentrate, organic aloe  vera barbadensis leaf polysaccharides (aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), ascorbic acid (vitamin C), disodium EDTA (preservatives), caprylyl glycol (emollient), phenoxyethanol (preservative), sorbic acid (preservative). 
+  
+   
+                                       
+                                   
+                                                               
+                                       
+                                           
+                                             Warnings  
+                                           
+                                         Aloe vera is a natural plant; therefore, the color may change due to seasonal variations without effecting purity, efficacy or quality. 
+ For topical use only.  
+                                       
+                                   
+   
+                               
+                                   
+                                       
+                                         Visit Manufacturer's Website  
+                                       
+                                   
+                               
+                           
+                     ","Prix":"  
+         $7.45  
+        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 12 oz (342 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 12 oz (342 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-12-oz-342-g/23422"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=6346.V2_Json.Translate.4C09E3BE","Titre":"Now Foods, Aloe Vera Concentrate, 4 fl oz (118 ml)","Description":"  
                            
                                    
                                        
@@ -339,471 +1562,7 @@
                                
                      ","Prix":"  
          $7.63  
-        ","image":["\\images\\Now Foods, Aloe Vera Concentrate, 4 fl oz (118 ml)0.png","\\images\\Now Foods, Aloe Vera Concentrate, 4 fl oz (118 ml)1.png"],"url":"http://www.iherb.com/Now-Foods-Aloe-Vera-Concentrate-4-fl-oz-118-ml/376"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Dry 
-   With Neem, Burdock, Bearberry and Vitamins A and E 
-   Natural Solution: Therapeutic Topicals 
-   Skincare Solutions 
-   Natural Ingredients 
-   Cruelty-Free 
-   Paraben-Free 
-   Eco-Friendly 
-   Soothes Dry Irritated Skin 
-   Reduces Scaling, Flaking and Itching 
-   Derma e is Family Owned and Operated 
-   Proven Natural Formulations Since 1984 
-   Gluten-Free/Vegan/pH Balanced 
-   Never Any Harmful Parabens, Phthalates, Sodium Lauryl  Sulfate, Petrolatum, Mineral Oil or Artificial Colors 
-  
- We’re serious about skincare and provide only the finest  natural products available. Every product we make is crafted with powerful,  active ingredients scientifically-proven to deliver noticeable results and  visible improvement. That’s why health-conscious people trust derma e for  natural, highly-concentrated skincare products that work. 
- — Dr. Linda Miles L. Ac., D.O.M. 
- Derma e natural  skincare:  Solutions that work 
-  
-   Psorzema Cream is a safe and effective blend of herbal  extracts and skin vitamins that provides natural relief from symptoms of  scaling and flaking. 
-   Helps soothe itching and irritated dry skin 
-   Contains no coal or pine tars and no steroids 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply liberally and use as often as desired to relieve symptoms.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Water (aqua), caprylic/capric triglyceride, melia azadirachta (neem) leaf extract, arctium lappa (burdock) root extract, zanthoxylum zanthoxyloides (fagara) bark extract, arctostaphylos uva ursi (bearberry) leaf extract, coptis chinensis (chinese golden thread) root extract, berberis aquifolium (barberry) extract, glycerin, stearic acid, glyceryl stearate and PEG-100 stearate, tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), allantoin, organic chamomilla recutita (matricaria) flower extract* (.1%), organic simmondsia chinensis (jojoba) seed oil* (.1%), polysorbate, cetyl alcohol, dimethicone, phenoxyethanol, ethylhexylglycerin, potassium sorbate. 
- *Certified Organic by Quality Assurance International or USDA.  
-                                       
-                                   
-                               
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $15.80  
-        ","image":["\\images\\Derma E, Psorzema Cream, 4 oz (113 g)0.png","\\images\\Derma E, Psorzema Cream, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Derma-E-Psorzema-Cream-4-oz-113-g/11075"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Soothing Moisturizer 
-   Enhanced with Polysaccharide-Rich Aloesorb 
-   Made with Certified Organic Aloe Vera Juice/Gel 
-   No Parabens 
-   No Artificial Colors 
-   No Animal Testing 
-  
- Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply to skin. Repeat as necessary.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Organic aloe vera barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera juice (gel) concentrate, organic aloe  vera barbadensis leaf polysaccharides (aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A), ascorbic acid (vitamin C), disodium EDTA (preservatives), caprylyl glycol (emollient), phenoxyethanol (preservative), sorbic acid (preservative). 
-  
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         Aloe vera is a natural plant; therefore, the color may change due to seasonal variations without effecting purity, efficacy or quality. 
- For topical use only.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $7.45  
-        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 12 oz (342 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 12 oz (342 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-12-oz-342-g/23422"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Healthy Skin 
-   Relieves Sunburn 
-   Moisturizes Skin 
-   Soothes Burns, Cuts, Bug Bites and Stings 
-  
- Made with 100% pure aloe vera gel, without all the chemicals! One of nature’s most effective skin conditioners, aloe soothes and hydrates dry, rough, or sunburned skin on contact.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply regularly and generously to skin areas to soothe minor burns, sunburns, cuts, bug bites and stings. Ideal for use as a daily moisturizer, hair-styling gel, and shaving gel.  
-                                           
-                                       
-                                   
-                                                                                           
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         Avoid contact with eyes. Keep out of reach of children.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                               
-                                   
-                                     Aloe barbadensis leaf (aloe vera gel) juice, glycerin, xanthan gum, camellia sinensis leaf (green tea) extract, cucumis sativus (cucumber) fruit extract, ethylhexylglycerin.  
-                                   
-                               
-                     ","Prix":"  
-         $10.17  
-        ","image":["\\images\\Dr. Mercola, Healthy Skin, Natural Aloe Vera, 8 fl oz (236 ml)0.png","\\images\\Dr. Mercola, Healthy Skin, Natural Aloe Vera, 8 fl oz (236 ml)1.png"],"url":"http://www.iherb.com/Dr-Mercola-Healthy-Skin-Natural-Aloe-Vera-8-fl-oz-236-ml/39996"},{"Titre":"Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                           Naturally Australian  Cortisone Free  Suitable for Children  Contains 0.2% Ethanol w/wNon Steroidal  Relieves skin irritation, itching, flaking & dryness  Natural homeopathic alternative  No paraffin, parabens, cortisone, coal tar or pine tarNatralia Eczema & Psoriasis Cream is a balanced blend of natural homeopathic remedies, herbal extracts & essential oils specifically chosen for their effectiveness in the treatment of Eczema & Psoriasis.For the relief of skin irritation, itching, flaking & dryness, Natralia Eczema & Psoriasis Cream has been fortified with traditional herbs in the form of extracts & essential oils:  Lavender  Chamomile  Licorice  Aloe Vera  Evening PrimroseUses  Use on affected areas for relief of itching, irritation, redness, flaking and scaling associated with Eczema & Psoriasis.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                               Apply to affected skin 2-3 times daily  Smooth in gently  The smallest effective dose should be used  Patch test recommended on sensitive skin  Suitable for use on children 2 years of age and older  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                               Active Ingredients    Purpose        Borax (20 X H.P.U.S. 0.2%)*    **E & PR        Graphites (6 X H.P.U.S. 0.2%)*    E & PR        Kalium Sulphuricum (3 X H.P.U.S. 0.2%)*    E & PR        Natrum Muriaticum (12 X H.P.U.S. 0.2%)*    E & PR        * The letters H.P.U.S. indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States.   ** The letters E & PR indicate Eczema & Psoriasis Relief.        Inactive Ingredients    Aloe barbadensis leaf juice, anthemis nobilis (chamomile) oil, butyrospermum parkii (shea butter), capric/caprylic triglycerides, caprylyl glycol (and) sorbic acid (and) phenoxyethanol, cetearyl alcohol, cetearyl glucoside, glycyrrhiza glabra (licorice) root extract, lavandula angustifolia (lavender) oil, methyl glucose sesquistearate, oenothera biennis (evening primrose) oil, persea gratissima (avocado) oil, theobroma cacao butter, tocopheryl acetate, water, zinc oxide  Does not contain paraffin, cortisone, parabens, coal tar, pine tar or nut oils.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                           For external use only.  If condition worsens or does not improve after regular use of this product as directed or if local irritation or rash occurs, discontinue use and consult a physician.  Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water.  Keep out of reach of children.Store between 50° - 86°F in a dry place  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $11.50  
-        ","image":["\\images\\Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)0.png","\\images\\Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)1.png"],"url":"http://www.iherb.com/Natralia-Eczema-Psoriasis-Cream-2-oz-56-g/9159"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Premium Herbal   
-   Certified 500 mg 
-   Dietary Supplement 
-  
- Health & longevity through the healing power of nature - that's what it means to Trust the Leaf. 
- Oregon Grape (Mahonia aquifolium) is also known as Holly Mountain Grape or Creeping Barberry. Its root contains the alkaline Berberine used during the winter season. 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Take 1 capsule three times daily, preferably with food.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Gelatin (capsule), magnesium stearate  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         As with many products consult a healthcare professional before taking this product if you are pregnant or nursing a baby.  
- Satisfaction Guaranteed.Freshness & safety sealed with printed outer shrinkwrap and printed inner seal. Do not use if either seal is broken or missing. Keep out of reach of children.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                               
-                                   
-                                          
-       
-   Supplement Facts    
-     
-       
-   Serving Size: 1 Capsule    
-     
-       
-   Servings Per Container: 90    
-     
-       
-          
-   Amount Per Serving      
-   % Daily Value    
-     
-       
-   Oregon Grape (root)      
-   500 mg      
-   **    
-     
-       
-   **Daily Value not established.    
-   
-     
-                                   
-                               
-                     ","Prix":"  
-         $5.44  
-        ","image":["\\images\\Nature's Way, Oregon Grape Root, 500 mg, 90 Capsules0.png","\\images\\Nature's Way, Oregon Grape Root, 500 mg, 90 Capsules1.png"],"url":"http://www.iherb.com/Nature-s-Way-Oregon-Grape-Root-500-mg-90-Capsules/2023"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Natural Pioneer Since 1959 
-   No: Parabens, SLS or Phthalates 
-   Certified Aloe Content & Purity in This Product - International Aloe Science Council 
-  
- This concentrated, non-oily daily moisturizing gel naturally delivers instant dry skin relief. Natural Aloe Vera Gel soothes dry, irritated, sun damaged or newly shaven skin while a boost of nourishing Allantoin and Vitamin B5 replenish and recondition. With use, skin is calmed, balanced and nurtured back to its healthy-looking best. 
- Born in 1959, Jason brand was one of the first to offer natural products without harsh chemicals. For over 50 years, we have delivered wholesome, no-nonsense, natural products that happen to really work. Our formulas don't contain petrolatum, sodium lauryl or laureth sulfates (SLS), parabens or phthalates. And we never test on animals. We invite you to try our entire line of safe, effective, body-loving products.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             After cleansing or shaving, apply to dry skin.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Aloe barbadensis leaf juice*, aqua (water), carbomer, gluconolactone, potassium hydroxide, glycerin, arginine, allantoin, panthenol, menthol, sodium phytate, polysorbate 20, phenoxyethanol, sodium benzoate, amyl cinnamal, benzyl benzoate, benzyl salicylate, hexyl cinnamal, limonene, linalool, fragrance (parfum). 
- *Certified Organic Ingredient 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         Caution: For external use only. Keep out of reach of children. Avoid direct contact with eyes. If rash or irritation occurs, stop use and consult physician. 
- No animal testing  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $3.60  
-        ","image":["\\images\\Jason Natural, Pure Natural Moisturizing Gel, Soothing 98% Aloe Vera, 4 oz (113 g)0.png","\\images\\Jason Natural, Pure Natural Moisturizing Gel, Soothing 98% Aloe Vera, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Jason-Natural-Pure-Natural-Moisturizing-Gel-Soothing-98-Aloe-Vera-4-oz-113-g/20555"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                           Soothing & Moisture Aloe Vera Foam Cleanser The foam cleanser removes impurities from your skin with its creamy foam, which contains aloe vera extract.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Take a proper amount on the palm, wet with water, rub sufficiently to make lather and apply all over the face, and then rinse off with warm water.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Water, glycerin, stearic acid. myristic acid, peg-32, potassium hydroxide, lauric acid, butylene glycol, cocamidopropyl betaine, glyceryl stearate, peg-100 stearate, sodium laureth sulfate, peg-75 aloe barbadensis leaf extract, tea-lauryl sulfate, fragrance (parfum), disodium edta, caramel, sodium benzoate, yellow 5 (cl 19140), methylchloroisothiazolinone, blue 1 (cl 42090), methylisothiazolinone  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only. Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear. Keep out of reach of children. Replace the cap after use.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $8.95  
-        ","image":["\\images\\Nature Republic, Aloe Vera, Soothing & Moisture Aloe Vera Foam Cleanser, 5.07 fl oz (150 ml)0.png","\\images\\Nature Republic, Aloe Vera, Soothing & Moisture Aloe Vera Foam Cleanser, 5.07 fl oz (150 ml)1.png"],"url":"http://www.iherb.com/Nature-Republic-Aloe-Vera-Soothing-Moisture-Aloe-Vera-Foam-Cleanser-5-07-fl-oz-150-ml/68399"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Since 1979 
-   \"Always Active\" Aloe 
-   Refreshing 
-   Sunburn Relief 
-   No Mess 
-   No Preservatives 
-   Use Under Makeup 
-  
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                              
-   Spray on generously 
-   Allow to soak in 
-   Reapply as needed 
-   
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         100% \"always active\" aloe vera distillate  
-                                       
-                                   
-                               
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $5.95  
-        ","image":["\\images\\George's Aloe Vera, Aloe Spray Mister, 8 fl oz (236 ml)0.png","\\images\\George's Aloe Vera, Aloe Spray Mister, 8 fl oz (236 ml)1.png"],"url":"http://www.iherb.com/George-s-Aloe-Vera-Aloe-Spray-Mister-8-fl-oz-236-ml/44031"},{"Description":"  
+        ","image":["\\images\\Now Foods, Aloe Vera Concentrate, 4 fl oz (118 ml)0.png","\\images\\Now Foods, Aloe Vera Concentrate, 4 fl oz (118 ml)1.png"],"url":"http://www.iherb.com/Now-Foods-Aloe-Vera-Concentrate-4-fl-oz-118-ml/376"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=5641.V2_Json.Translate.48E8CC62","Titre":"Jason Natural, Treatment Shampoo, Dandruff Relief, 12 fl oz (355 ml)","Description":"  
                            
                                    
                                        
@@ -889,7 +1648,7 @@
                                
                      ","Prix":"  
          $10.39  
-        ","image":["\\images\\Jason Natural, Treatment Shampoo, Dandruff Relief, 12 fl oz (355 ml)0.png","\\images\\Jason Natural, Treatment Shampoo, Dandruff Relief, 12 fl oz (355 ml)1.png"],"url":"http://www.iherb.com/Jason-Natural-Treatment-Shampoo-Dandruff-Relief-12-fl-oz-355-ml/6253"},{"Description":"  
+        ","image":["\\images\\Jason Natural, Treatment Shampoo, Dandruff Relief, 12 fl oz (355 ml)0.png","\\images\\Jason Natural, Treatment Shampoo, Dandruff Relief, 12 fl oz (355 ml)1.png"],"url":"http://www.iherb.com/Jason-Natural-Treatment-Shampoo-Dandruff-Relief-12-fl-oz-355-ml/6253"},{"0":"TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=3444.V2_Json.Translate.4B866974","Titre":"Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)","Description":"  
                            
                                    
                                        
@@ -897,17 +1656,7 @@
                                            
                                              Description  
                                            
-                                          
-   After Sun Relief 
-   Soothes and Repairs Damaged Skin 
-   Multi-Purpose Formula 
-   Paraben Free 
-   Gluten Free 
-   NOW Solutions Products are not Tested on Animals 
-  
- Condition: Skin in need of soothing or calming due to environmental factors that cause irritation, also for skin that has been injured or damaged. 
- Solution: Aloe Soothing Gel is a refreshing and revitalizing formula with Organic Aloe Vera and Cucumber Extract to help naturally replenish healthy skin cells. Allantonin, L-Arginine and Vitamin E help to soothe and calm skin that has been exposed to the sun for too long, and help repair the damage that has been done. Panthenol penetrates into the skin to deeply moisturize. 
-   
+                                           Naturally Australian  Cortisone Free  Suitable for Children  Contains 0.2% Ethanol w/wNon Steroidal  Relieves skin irritation, itching, flaking & dryness  Natural homeopathic alternative  No paraffin, parabens, cortisone, coal tar or pine tarNatralia Eczema & Psoriasis Cream is a balanced blend of natural homeopathic remedies, herbal extracts & essential oils specifically chosen for their effectiveness in the treatment of Eczema & Psoriasis.For the relief of skin irritation, itching, flaking & dryness, Natralia Eczema & Psoriasis Cream has been fortified with traditional herbs in the form of extracts & essential oils:  Lavender  Chamomile  Licorice  Aloe Vera  Evening PrimroseUses  Use on affected areas for relief of itching, irritation, redness, flaking and scaling associated with Eczema & Psoriasis.  
                                        
                                    
                                                                
@@ -916,8 +1665,7 @@
                                              Suggested Use  
                                            
                                            
-                                             Apply gel to the skin as needed, over a sunburn or windburn to soothe irritation. Reapply as needed. 
-   
+                                               Apply to affected skin 2-3 times daily  Smooth in gently  The smallest effective dose should be used  Patch test recommended on sensitive skin  Suitable for use on children 2 years of age and older  
                                            
                                        
                                    
@@ -926,74 +1674,7 @@
                                            
                                              Other Ingredients  
                                            
-                                         Aloe vera (aloe babadensis) leaf gel*, de-ionized water, potassium carbomer, sodium hydroxymethyl glycinate, phenoxyethanol, cucumber (cucumis sativus) extract, allantoin, vegetable glycerin, panthenol (provitamin B-5), natural vitamin E (from mixed tocopherols) (soy), l-arginine and peppermint (mentha piperita) oil. 
- *Certified Organic 
-   
-                                       
-                                   
-                               
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $6.10  
-        ","image":["\\images\\Now Foods, Solutions, Aloe Soothing Gel, 8 fl oz (237 ml)0.png","\\images\\Now Foods, Solutions, Aloe Soothing Gel, 8 fl oz (237 ml)1.png"],"url":"http://www.iherb.com/Now-Foods-Solutions-Aloe-Soothing-Gel-8-fl-oz-237-ml/16568"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Natural Health Begins at Home 
-   2% Salicylic Acid 
-   With Carrot Oil, Jojoba Oil, Aloe Vera, Allantoin and Herbal Extracts 
-   For the Relief of Itching, Redness, Irritation and Scaling Associated with Psoriasis, Dandruff and Seborrheic Dermatitis 
-   Gentle Cleansing Formula Effective for Scalp and Body 
-   Contains No Artificial Preservatives or Colors 
-   Paraben-Free 
-   Guaranteed Quality, Laboratory Tested 
-  
- Uses  For relief of: 
-  
-   itching 
-   irritation 
-   redness 
-   scaling associated with Psoriasis 
-  
- Psoriasis Medicated Scalp and Body Wash helps fight the itching, redness, irritation and scaling associated with psoriasis, dandruff and seborrheic dermatitis. The active ingredient, Salicylic Acid, is combined with a soothing, moisturizing base that includes the following natural ingredients: Allantoin, Aloe Vera Gel, Carrot Oil, Echinacea Extract and Jojoba Oil. 
- At Home Health, years of research have gone into creating truly effective personal care products based on traditional, natural ingredients. You can rely on Home Health to deliver the natural health products your family deserves.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                              
-   For best results apply daily or as directed by a physician 
-   Shake well before using 
-   Moisten affected area with lukewarm water 
-   Massage liberal amount of product to affected area in place of soap 
-   Rinse thoroughly and pat dry 
-  
- Contents may separate when left standing. Shake vigorously.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         No parabens, no preservatives, no mineral oil, no petroleum, no artificial color, no artificial fragrance, no animal products, no gluten.  
+                                               Active Ingredients    Purpose        Borax (20 X H.P.U.S. 0.2%)*    **E & PR        Graphites (6 X H.P.U.S. 0.2%)*    E & PR        Kalium Sulphuricum (3 X H.P.U.S. 0.2%)*    E & PR        Natrum Muriaticum (12 X H.P.U.S. 0.2%)*    E & PR        * The letters H.P.U.S. indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States.   ** The letters E & PR indicate Eczema & Psoriasis Relief.        Inactive Ingredients    Aloe barbadensis leaf juice, anthemis nobilis (chamomile) oil, butyrospermum parkii (shea butter), capric/caprylic triglycerides, caprylyl glycol (and) sorbic acid (and) phenoxyethanol, cetearyl alcohol, cetearyl glucoside, glycyrrhiza glabra (licorice) root extract, lavandula angustifolia (lavender) oil, methyl glucose sesquistearate, oenothera biennis (evening primrose) oil, persea gratissima (avocado) oil, theobroma cacao butter, tocopheryl acetate, water, zinc oxide  Does not contain paraffin, cortisone, parabens, coal tar, pine tar or nut oils.  
                                        
                                    
                                                                
@@ -1001,85 +1682,7 @@
                                            
                                              Warnings  
                                            
-                                         For external use only. 
- Ask a doctor before use if you have psoriasis that covers a large area of the body. 
- When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. 
- Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. 
- Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away. 
- Store in a cool, dry place.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                               
-                                   
-                                      
-    
-     Active Ingredient 
-     Purpose 
-    
-    
-     Salicylic acid 2.0% 
-     Psoriasis 
-    
-    
-     Inactive Ingredients: allantoin, aloe barbadensis leaf juice, chamomilla recutita (matricaria) extract, citrus grandis (grapefruit) fruit extract, citrus medica limonum (lemon) peel oil, daucus carota sativa (carrot) seed oil, echinacea purpurea extract, equisetum hyemale extract, glycol stearate, honey extract, humulus lupulus (hops) extract, hydroxypropyl methylcellulose, lauramide DEA, lawsonia inermis (henna) extract, propylene glycol, purified water, rosmarinus officinalis (rosemary) leaf extract, simmondsia chinensis (jojoba) seed oil, sodium chloride, sodium myreth sulfate, TEA-lauryl sulfate, triethanolamine, urtica dioica (nettle) extract. 
-    
-   
-                                   
-                               
-                     ","Prix":"  
-         $10.07  
-        ","image":["\\images\\Home Health, Psoriasis, Medicated Scalp and Body Wash, 8 fl oz (236 ml)0.png","\\images\\Home Health, Psoriasis, Medicated Scalp and Body Wash, 8 fl oz (236 ml)1.png"],"url":"http://www.iherb.com/Home-Health-Psoriasis-Medicated-Scalp-and-Body-Wash-8-fl-oz-236-ml/6489"},{"Titre":"Jason Natural, Moisturizing Creme, 4 oz (113 g)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                             
-   Natural Pioneer Since 1959 
-   Soothing 84% Aloe Vera 
-   Certified Aloe Content & Purity in This Product International Aloe Science Council 
-   
- This botanically-rich daily creme naturally delivers deep, long-lasting moisturization and calms irritated skin. Highly concentrated Aloe Vera Gel plus natural Sweet Almond Oil and Vitamin E instantly soothe dry, irritated, sun damaged or newly shaven skin. With use, skin is calmed, balanced and nurtured back to its healthy-feeling best.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply daily on face and body. Massage thoroughly where needed.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Aloe barbadensis leaf juice*, aqua (water), helianthus annuus (sunflower) seed oil*, glycerin, stearic acid, cetyl alcohol, dimethicone, persea gratissima (avocado) oil, prunus amygdalus dulcis (sweet almond) oil, carbomer, methyl glucose sesquistearate, potassium cetyl phosphate, potassium hydroxide, sodium PCA, tocopheryl acetate, phenoxyethanol, potassium sorbate, sodium benzoate, amyl cinnamal, benzyl benzoate, benzyl salicylate, citral, geraniol, hexyl cinnamal, hydroxycitronellal, limonene, linalool, fragrance (parfum) 
- *Certified Organic Ingredient. 
- No parabans,SLS, petrolatum, artificial colors or phthalates  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only. Avoid contact with eyes. Keep out of the reach of children. 
- No animal testing  
+                                           For external use only.  If condition worsens or does not improve after regular use of this product as directed or if local irritation or rash occurs, discontinue use and consult a physician.  Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water.  Keep out of reach of children.Store between 50° - 86°F in a dry place  
                                        
                                    
    
@@ -1092,432 +1695,5 @@
                                
                            
                      ","Prix":"  
-         $7.20  
-        ","image":["\\images\\Jason Natural, Moisturizing Creme, 4 oz (113 g)0.png","\\images\\Jason Natural, Moisturizing Creme, 4 oz (113 g)1.png"],"url":"http://www.iherb.com/Jason-Natural-Moisturizing-Creme-4-oz-113-g/6234"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Made with 98% Organic Ingredients 
-   All-Natural Ingredients 
-   Contents Biodegradable 
-   Vegan 
-   Certified Organic by QAI, Inc 
-  
- One of nature's most effective skin soothers, aloe conditions and hydrates dry, rough or sun-exposed skin on contact. 
- Extracted from the leaf of certified organic plants, our aloe vera does not resemble processed aloe. Because we use no artificial thickeners, its consistency and clarity may vary.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             To Use: Shake well before using. Apply to affected areas of the skin as needed. For topical use only. 
- Refrigerate after opening for best results.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Aloe barbadensis (aloe) leaf juice*, citrus grandis (grapefruit) extract, cyamopsis tetragonoloba (guar) gum*, tocopherol (vitamin E). 
- *Organic  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         No animal testing  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $7.57  
-        ","image":["\\images\\Aubrey Organics, Pure Aloe Vera, 4 fl oz (118 ml)0.png","\\images\\Aubrey Organics, Pure Aloe Vera, 4 fl oz (118 ml)1.png"],"url":"http://www.iherb.com/Aubrey-Organics-Pure-Aloe-Vera-4-fl-oz-118-ml/7579"},{"Titre":"Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Soothing Moisturizer 
-   Enhanced with Polysaccharide-Rich Aloesorb 
-   Made with Certified Organic Aloe Vera Juice/Gel 
-   No Parabens 
-   No Artificial Colors 
-   No Animal Testing 
-  
- Lily of the Desert Aloe Vera Gelly naturally replenishes and relieves skin after prolonged sun or wind exposure. It also refreshes and cools the skin surface on application. 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply to skin. Repeat  as necessary. 
-   
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Organic aloe vera  barbadensis leaf juice (gel), carbomer (thickener), certified organic aloe vera  juice (gel) concentrate, organic aloe vera barbadensis leaf polysaccharides  (aloesorb), tocopheryl acetate (vitamin E), retinyl palmitate (vitamin A),  ascorbic acid (vitamin C), disodium EDTA (preservative), caprylyl glycol  (emollient), phenoxyethanol (preservative), sorbic acid (preservative). 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         Aloe vera is a natural  plant; therefore, the color may change due to seasonal variations without  effecting purity, efficacy or quality. 
- For topical use only. 
-   
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $3.50  
-        ","image":["\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)0.png","\\images\\Lily of the Desert, 99% Aloe Vera Gelly, 4 oz (114 g)1.png"],"url":"http://www.iherb.com/Lily-of-the-Desert-99-Aloe-Vera-Gelly-4-oz-114-g/55961"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                           The Only Real Aloe Vera  Organically Grown Aloe Vera  Made in the U.S.A.  Gluten Free  Vegan Certified  Certified Organic  Non-GMO Project VerifiedWe take our inspiration from Nature, selecting all natural ingredients for all of our products and formulas.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply RealAloe Spray to skin as needed. Relieves dry and  cracked skin, burns, shaving irritations, rashes and other minor skin  irritations.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Water (aqua), aloe barbadensis leaf juice, citric acid, potassium sorbate.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         Not tested on animals  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $3.84  
-        ","image":["\\images\\Real Aloe Inc., Aloe Vera Spray, 8 oz (227 ml)0.png","\\images\\Real Aloe Inc., Aloe Vera Spray, 8 oz (227 ml)1.png"],"url":"http://www.iherb.com/Real-Aloe-Inc-Aloe-Vera-Spray-8-oz-227-ml/29036"},{"Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                           
-   The Natural Alternative for Psoriasis  
-   Fast Relief for Scaling & Dry Skin  
-   Maximum Strength Formula  
-   Clinically Proven Effective  
-   Won't Stain  
-   Pleasant Odor  
-   Safe and Effective  
-   Topical Cream   
-   Safe for Long Term Treatment  
-   Fast Acting, pleasant to Use  
-   No Animal Testing  
-   No Animal By-Products  
-   
-  Psoriaflora Cream is a unique alternative pharmaceutical preparation that provides relief for the symptoms of psoriasis. Psoriaflora's maximum strength formula is backed by clinical research proving its effectiveness in relieving the scaling, redness, dry skin and itching associated with psoriasis.  In a 12-week study of 433 patients, 81.8% of these patients demonstrated significant improvement or disappearance of scaling and flaking skin.  
- Unlike coal tar products, Psoriaflora is pleasant to use. It has a light, pleasant odor and will not stain the skin or clothing. Psoriaflora does not contain salicylic acid or corticosteroids that can cause adverse reactions or interact harmfully with other medications.  
-  For the temporary relief of symptoms of psoriasis such as dry skin rashes, itching, scaling, flaking, redness or irritation of the skin.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Adult & children 2 years of age & older: Apply to affected skin area up to 4 times daily. Rub in gently. Children under 2: Consult a doctor.   
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Active Ingredients: Berberis aquifolium Tincture 10%.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only. Avoid contact with eyes. If condition worsens or does not improve after regular use of this product as directed, discontinue use of this product & consult a doctor. Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately. Store at room temperature out of direct sunlight.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $8.82  
-        ","image":[],"url":"http://www.iherb.com/Boericke-Tafel-Psoriaflora-Topical-Cream-1-oz/3269"},{"Titre":"Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Golden Seal-Myrrh 
-   No Testing on Animals 
-   No Animal Ingredients 
-  
- The medicinal properties of Golden Seal and Myrrh Gum powder combine to make a most effective disinfecting ointment for psoriasis, eczema, hemorrhoids, burns, infections, cuts, wounds, scrapes, dry skin, etc. A natural salve no household should be without. The quick results will amaze you. 
-   
-                                       
-                                   
-                                                                                                                       
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only. Keep out of children's reach.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                               
-                                   
-                                     Safflower oil, sweet almond oil, beeswax, golden seal root, myrrh gum and vitamins E, A & D.  
-                                   
-                               
-                     ","Prix":"  
-         $6.00  
-        ","image":["\\images\\Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)0.png","\\images\\Country Comfort, Herbal Savvy, Golden Seal-Myrrh, 2 oz (57 g)1.png"],"url":"http://www.iherb.com/Country-Comfort-Herbal-Savvy-Golden-Seal-Myrrh-2-oz-57-g/6381"},{"Titre":"Home Health, Psoriasis Cream, 2 oz (56 g)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                          
-   Natural Health Begins at Home 
-   2% Salicylic Acid 
-   Paraben-Free 
-   Absorbs Quickly 
-   Guaranteed Quality, Laboratory Tested 
-  
- Uses For Relief Of: 
-  
-   Itching 
-   Irritation 
-   Redness 
-   Scaling associated with Psoriasis 
-   
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                              
-   Wash affected areas with an antiseptic soap and water, pat dry. 
-   Apply Psoriasis Cream one to four times daily, or as directed by a physician. 
-   
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                          No parabens, no preservatives, no mineral oil, no petroleum, no artificial color, no artificial fragrance, no gluten.  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only. 
- Ask a doctor before use if condition covers a large area of the body. 
- When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. 
- Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. 
- Keep out of reach of children. 
- If swallowed, get medical help or contact a poison control center right away.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                               
-                                   
-                                      
-    
-     Drug Facts 
-    
-    
-     Active Ingredient 
-     Purpose 
-    
-    
-     Salicylic acid 2.0% 
-     Psoriasis 
-    
-    
-     Inactive Ingredients: 
-     Allantoin, beeswax, cetyl alcohol, citrus grandis (grapefruit) fruit extract, cod liver oil, cymbopogon schoenanthus oil, echinacea angustifolia extract, rosa canina fruit oil, rumex crispus root extract, simmondsia chinensis (jojoba) seed oil, smilax aristolochiifolia root extract, stearic acid, tocopheryl acetate (vitamin E acetate), triethanolamine, water. 
-    
-   
-                                   
-                               
-                     ","Prix":"  
-         $11.15  
-        ","image":["\\images\\Home Health, Psoriasis Cream, 2 oz (56 g)0.png","\\images\\Home Health, Psoriasis Cream, 2 oz (56 g)1.png"],"url":"http://www.iherb.com/Home-Health-Psoriasis-Cream-2-oz-56-g/6448"},{"Titre":"Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)","Description":"  
-                           
-                                   
-                                       
-   
-                                           
-                                             Description  
-                                           
-                                           
-   Natural & Organic Ingredients    
-   Everyday Formula 
-   Soothes and Moisturizes Dry & Chapped Skin 
-   Relieves Minor Skin Irritations, Insect Bites & Sunburn  
-   Fragrance Free 
-   PH Balanced 
-   Paraben Free 
-   Glycol Free 
-   Beautiful Skin Naturally 
-   The Best of Nature for Nourished Beauty 
-   Cruelty-Free 
-   
- All the amazing properties of pure Aloe Vera are carefully extracted from the Aloe Vera plant and are completely intact in this convenient tube. We add Cucumber to help keep the skin toned, fresh and soft. Also Comfrey and Allantoin to further assist the skin's healing process. This moisture rich, quick absorbing Aloe Vera Gel helps soothe and moisturize dry skin and relieve skin irritations, minor burns, insect bites, and sunburn. A cooling aftershave balm for men and women. 
- Come to Mill Creek... 
- Where Nature Makes a Difference  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Suggested Use  
-                                           
-                                           
-                                             Apply the gel directly onto skin abrasions, cuts, sunburns, rashes, and insect bites to help fight bacteria and avoid infection.  
-                                           
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Other Ingredients  
-                                           
-                                         Aloe vera gel (organic), deionized water, cucumber extract, comfrey extract, allantoin, carbomer, tetrasodium EDTA, triethanolamine, oleth-20, potassium sorbate, sodium benzoate, essential oils. 
- pH balanced.  
- *Certified Organic ingredient by BCS OKO - Garanite  
-                                       
-                                   
-                                                               
-                                       
-                                           
-                                             Warnings  
-                                           
-                                         For external use only.  
-                                       
-                                   
-   
-                               
-                                   
-                                       
-                                         Visit Manufacturer's Website  
-                                       
-                                   
-                               
-                           
-                     ","Prix":"  
-         $4.97  
-        ","image":["\\images\\Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)0.png","\\images\\Mill Creek, 99% Aloe Vera Gel, 6 fl oz (180 ml)1.png"],"url":"http://www.iherb.com/Mill-Creek-99-Aloe-Vera-Gel-6-fl-oz-180-ml/6593"}]
+         $11.50  
+        ","image":["\\images\\Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)0.png","\\images\\Natralia, Eczema & Psoriasis Cream, 2 oz (56 g)1.png"],"url":"http://www.iherb.com/Natralia-Eczema-Psoriasis-Cream-2-oz-56-g/9159"}]

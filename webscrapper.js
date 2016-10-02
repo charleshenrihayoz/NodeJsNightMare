@@ -27,6 +27,12 @@ var bt = require('bing-translate').init({
     client_id: '4eca816f-4f90-44d5-a0e6-c54f326a3e22',
     client_secret: 'sX5poQpwvT5eN2o1Dyehiqg13d66tC0OeXOZFWEfAcE'
 });
+
+var credentials = {
+    clientId: '4eca816f-4f90-44d5-a0e6-c54f326a3e22', /* Client ID from the registered app */
+    clientSecret: 'sX5poQpwvT5eN2o1Dyehiqg13d66tC0OeXOZFWEfAcE'  /* Client Secret from the registered app */
+}
+var translator = require('bingtranslator');
 var vo = require('vo');
 if (productsToGet.length > 0)
 {
@@ -92,7 +98,7 @@ function getProduct(url, call)
 
                     src = $(this).attr("href");
                 }
-                console.log(src);
+                console.log("src "+src);
                 if (typeof src != 'undefined')
                 {
 
@@ -101,7 +107,7 @@ function getProduct(url, call)
                     object.image.push(chemin);
 
                     download(src, chemin, function () {
-                       // console.log('done');
+                        // console.log('done');
                     });
                     compteur++;
                 }
@@ -112,7 +118,9 @@ function getProduct(url, call)
 
         }
         list_product.push(object);
-        if (call)
+        nbreElement--;
+        console.log(nbreElement);
+        if (nbreElement === 0)
         {
             treatment();
         }
@@ -132,7 +140,7 @@ var download = function (uri, filename, callback) {
     });
 };
 
-function jsonText (tableau)
+function jsonText(tableau)
 {
     var string = JSON.stringify(tableau);
     string = string.replace(/\\r/g, ' ');
@@ -145,8 +153,8 @@ function jsonText (tableau)
 function treatment()
 {
     var intouche = list_product;
-    
-    var string = jsonText (list_product);
+
+    var string = jsonText(list_product);
     writeFile("en.txt", string);
     lang.forEach(function (element, index)
     {
@@ -155,39 +163,56 @@ function treatment()
 
     //console.log(string);
 
-    bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
+    /* bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
      console.log(res['translated_text']);
-     });
-};
+     });*/
+}
+;
 
-
+    var nbreIteration;
 //hehehtest
 function traduction(tableau, language)
 {
-    var max = tableau.length;
+   
+    nbreIteration = formstoTranslate.length * tableau.length;
     tableau.forEach(function (object, indexTab)
     {
-        
+
         formstoTranslate.forEach(function (element, indexForm)
         {
-            var maxF = formstoTranslate.length;
-            var string = utf8.encode(object[element]);
-             console.log (string);
             
-            bt.translate('This hotel is located close to the centre of Paris.', 'en', 'fr', function (err, res) {
-                console.log (err+" "+res['translated_text']);
-                tableau[indexTab][element] = res['translated_text'];
-                
-                if (indexTab +1 == max && indexForm +1 == maxF)
-                {
-                    writeFile(language+".txt", jsonText(tableau));
-                } 
-                 
-            });
+            var string = utf8.encode(object[element]);
+            console.log(string);
+            callBingTranslate(string, indexTab, indexForm, language, tableau);
+
         });
 
     });
 }
+
+function callBingTranslate(string, indexTab, indexForm, language, tableau)
+{
+    translator.translate(credentials, string, 'en', language, function (err, translated) {
+        if (err || translated.search("TranslateApiException") != -1) {
+            console.log('error ' + string);
+            callBingTranslate(string, indexTab, indexForm, language, tableau);
+            return;
+        } else
+        {
+            console.log(nbreIteration + " Translate :" + translated);
+            tableau [indexTab][indexForm] = translated;
+            nbreIteration --;
+            if (nbreIteration === 0)
+            {
+                writeFile(language + ".txt", jsonText(tableau));
+            }
+        }
+
+
+    });
+}
+
+
 var fs = require('fs');
 function writeFile(filename, string)
 {
@@ -203,19 +228,15 @@ function writeFile(filename, string)
 
 
 var list_object;
+var nbreElement;
 function productsGetter(list_product)
 {
     var length = list_product.length;
+     nbreElement = length;
     list_product.forEach(function (element, index)
     {
-        if (length === index + 1)
-        {
-            getProduct(element, true);
-        } else
-
-        {
-            getProduct(element, false);
-        }
+        getProduct(element);
+        
 
     });
 }
