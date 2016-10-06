@@ -15,14 +15,17 @@ var formsToGet =
             "Prix": "#price"
         };
 
+var fields = ["Titre", "Description", "Prix"];
 var imageToGet = ['.prod-im-sm-front a'];
 
 var formstoTranslate = ["Titre", "Description"];
-var lang = ['fr'];
+var lang = ['fr', 'de'];
 var category = "";
 var utf8 = require('utf8');
 var cheerio = require("cheerio");
 var request = require("request");
+var json2csv = require('json2csv');
+
 /*var bt = require('bing-translate').init({
  client_id: 'nightmare',
  client_secret: 'rLz5NGyhxIySuIDj2Bij8GCpe9CubHGQXIHxRNl97xE='
@@ -149,17 +152,23 @@ function jsonText(tableau)
     string = string.replace(/\\n/g, ' \n ');
     return string;
 }
-
+var tableauLanguage = {};
 function treatment()
 {
     var intouche = list_product;
 
     var string = jsonText(list_product);
     writeFile("en.txt", string);
-    lang.forEach(function (element, index)
-    {
-        traduction(intouche, element);
-    });
+    writeCSV (intouche);
+    tableauLanguage = {};
+    /*lang.forEach(function (element, index)
+     {
+     tableauLanguage[element] = {
+     'number': 0,
+     'tableau': null
+     };
+     traduction(intouche, element);
+     });*/
 
     //console.log(string);
 
@@ -175,7 +184,10 @@ function traduction(tableau, language)
 {
 
     nbreIteration = formstoTranslate.length * tableau.length;
-    tableau.forEach(function (object, indexTab)
+    tableauLanguage[language]["number"] = nbreIteration;
+
+    tableauLanguage[language]["tableau"] = JSON.parse(JSON.stringify(tableau));
+    tableauLanguage[language]["tableau"].forEach(function (object, indexTab)
     {
 
         formstoTranslate.forEach(function (element, indexForm)
@@ -189,19 +201,19 @@ function traduction(tableau, language)
             var string = object[element];
 
 
-            callBingTranslate(string, indexTab, indexForm, language, tableau);
+            callBingTranslate(string, indexTab, element, language);
 
         });
 
     });
 }
 
-function callBingTranslate(string, indexTab, indexForm, language, tableau)
+function callBingTranslate(string, indexTab, indexForm, language)
 {
     translator.translate(credentials, string, 'en', language, function (err, translated) {
         if (err || translated.search("TranslateApiException") != -1) {
             console.log('error ' + translated);
-            callBingTranslate(string, indexTab, indexForm, language, tableau);
+            callBingTranslate(string, indexTab, indexForm, language);
             return;
         } else
         {
@@ -210,12 +222,12 @@ function callBingTranslate(string, indexTab, indexForm, language, tableau)
             string = string.replace(/\\u000d/g, ' \r ');
 
             //string = string.replace(/\\n/g, ' \n ');
-            console.log(nbreIteration + " Translate ");
-            tableau [indexTab][indexForm] = string;
-            nbreIteration--;
-            if (nbreIteration === 0)
+            console.log(tableauLanguage[language]["number"] + " Translate ");
+            tableauLanguage[language]["tableau"][indexTab][indexForm] = string;
+            tableauLanguage[language]["number"]--;
+            if (tableauLanguage[language]["number"] === 0)
             {
-                writeFile(language + ".txt", jsonText(tableau));
+                writeFile(language + ".txt", jsonText(tableauLanguage[language]["tableau"]));
             }
         }
 
@@ -223,11 +235,55 @@ function callBingTranslate(string, indexTab, indexForm, language, tableau)
     });
 }
 
+function transformationEnCsv(tableau)
+{
+    var interval = ";";
+    var string = "";
+    for (var i = 0; i < fields.length; i++)
+    {
+        if (i != 0)
+        {
+            string += interval + fields[i];
+        } else
+        {
+            string += fields[i];
+        }
+    }
+
+    for (var i = 0; i < tableau; i++)
+    {
+        string += '\n';
+        for (var x = 0; x < fields; x++)
+        {
+            var fie = fields[x];
+            if (i != 0)
+            {
+                string += interval + tableau[i][fie];
+            } else
+            {
+                string += tableau[i][fie];
+            }
+        }
+    }
+    
+    return string;
+}
 
 var fs = require('fs');
+function writeCSV (tableau)
+{
+    var csv = transformationEnCsv(tableau);
+
+    fs.writeFile('file.csv', csv, function (err) {
+        if (err)
+            throw err;
+        console.log('file saved');
+    });
+}
 function writeFile(filename, string)
 {
 
+    
     fs.writeFile(__dirname + "\\" + filename, string, function (err) {
         if (err) {
             return console.log(err);

@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 sept. 2016, 11:26:03
+    Author     : charly
+*/
+
+.list_function {
+    width: 30%;
+    float: left;
+    text-align:center;
+}
+.blocfunction {
+    width: 100%;
+}
+
+.constructor p {
+
+    text-align:center;
+}
+.constructor {
+    width: 70%;
+    float: right;
+    text-align:center;
+    
+}
+
+.buttonfunction {
+    width: 80%;
+}
+
+
+
