@@ -146,20 +146,42 @@ var download = function (uri, filename, callback) {
 function jsonText(tableau)
 {
     var string = JSON.stringify(tableau);
-    string = string.replace(/\\r/g, ' \r ');
+    string = string.replace(/\\r/g, ' ');
     string = string.replace(/\\t/g, ' ');
 
-    string = string.replace(/\\n/g, ' \n ');
+    string = string.replace(/\\n/g, ' ');
     return string;
+}
+
+function parseTableau(tableau)
+{
+    for (var i = 0; i < tableau.length; i++)
+    {
+        for (var index in formsToGet) {
+            
+            var string = tableau[i][index];
+            string = string.replace(/\\r/g, '');
+            string = string.replace(/\\t/g, '');
+            string = string.replace(/;/g, ':');
+            string = string.replace(/\s\s+/g, ' ');
+
+            string = string.replace(/\\n/g, '');
+            tableau[i][index] = string;
+
+        }
+        
+    }
 }
 var tableauLanguage = {};
 function treatment()
 {
+     parseTableau(list_product);
     var intouche = list_product;
-
+   
     var string = jsonText(list_product);
     writeFile("en.txt", string);
-    writeCSV (intouche);
+   
+    writeCSV(intouche);
     tableauLanguage = {};
     /*lang.forEach(function (element, index)
      {
@@ -249,14 +271,14 @@ function transformationEnCsv(tableau)
             string += fields[i];
         }
     }
-
-    for (var i = 0; i < tableau; i++)
+    string += '\r\n';
+    for (var i = 0; i < tableau.length; i++)
     {
-        string += '\n';
-        for (var x = 0; x < fields; x++)
+
+        for (var x = 0; x < fields.length; x++)
         {
             var fie = fields[x];
-            if (i != 0)
+            if (x !== 0)
             {
                 string += interval + tableau[i][fie];
             } else
@@ -264,13 +286,14 @@ function transformationEnCsv(tableau)
                 string += tableau[i][fie];
             }
         }
+        string += '\r\n';
     }
-    
+
     return string;
 }
 
 var fs = require('fs');
-function writeCSV (tableau)
+function writeCSV(tableau)
 {
     var csv = transformationEnCsv(tableau);
 
@@ -283,7 +306,7 @@ function writeCSV (tableau)
 function writeFile(filename, string)
 {
 
-    
+
     fs.writeFile(__dirname + "\\" + filename, string, function (err) {
         if (err) {
             return console.log(err);
