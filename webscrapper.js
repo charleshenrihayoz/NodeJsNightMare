@@ -249,7 +249,7 @@ function callBingTranslate(string, indexTab, indexForm, language)
             tableauLanguage[language]["number"]--;
             if (tableauLanguage[language]["number"] === 0)
             {
-                writeFile(language + ".txt", jsonText(tableauLanguage[language]["tableau"]));
+                writeCSV(language + ".txt", tableauLanguage[language]["tableau"]);
             }
         }
 
@@ -293,11 +293,11 @@ function transformationEnCsv(tableau)
 }
 
 var fs = require('fs');
-function writeCSV(tableau)
+function writeCSV(tableau, language)
 {
     var csv = transformationEnCsv(tableau);
 
-    fs.writeFile('file.csv', csv, function (err) {
+    fs.writeFile(language+'.csv', csv, function (err) {
         if (err)
             throw err;
         console.log('file saved');
