@@ -20,6 +20,19 @@ and open the template in the editor.
     text-align:center;
 }
 
+#title h1 {
+    display: inline-block;
+}
+
+#menu {
+    display: inline-block;
+    float: right;
+}
+
+.variables img {
+    width: 100%;
+}
+
 .string {
    
 }

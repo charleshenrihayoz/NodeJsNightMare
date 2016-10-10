@@ -14,7 +14,7 @@ var list_function = {
     'goto(url)': goTo,
     'clickLinkWithText(text)': clickLinkWithText,
     'exist(selector)': exist,
-    'upload(selector, path)': upload,
+    'upload(selector, base64)': upload,
     'click(selector)': click,
     'type(selector, text)': type,
     'waitFor(selector)': waitFor,
@@ -195,11 +195,24 @@ function exist(element)
 {
     return nightmare.exists(element);
 }
-function upload(element, path)
+
+
+
+function upload(element, base64)
 {
-    path = __dirname + path;
-    return nightmare.upload(element, path);
+    var image = base64;
+    var extension = base64.substr(base64.indexof("/")+1, base64.indexof(";")-base64.indexof("/")+1);
+    
+    var data = image.replace(/^data:image\/\w+;base64,/, '');
+
+    fs.writeFile("temp."+extension, data, {encoding: 'base64'}, function(err){
+        console.log(err);
+        path = __dirname + "temp."+extension;
+        return nightmare.upload(element, path);
+    });
+    
 }
+
 function click(element)
 {
     return nightmare.click(element);
