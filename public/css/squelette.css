@@ -9,12 +9,40 @@ and open the template in the editor.
 */
 
 .list_function {
-    width: 30%;
+    width: 20%;
     float: left;
     text-align:center;
 }
-.blocfunction {
+
+.variables {
+    width: 20%;
+    float:left;
+    text-align:center;
+}
+
+.string {
+   
+}
+
+.vos_variables div{
+     border: 1px solid;
+     padding: 3px;
+     margin-bottom: 10px;
+}
+
+.buttonvariables {
     width: 100%;
+}
+
+.blockfunction {
+    width: 100%;
+    margin-bottom: 5px;
+    border: 1px solid;
+}
+
+
+.button {
+    cursor: pointer;
 }
 
 .constructor p {
@@ -22,14 +50,14 @@ and open the template in the editor.
     text-align:center;
 }
 .constructor {
-    width: 70%;
-    float: right;
+    width: 60%;
+    float: left;
     text-align:center;
     
 }
 
 .buttonfunction {
-    width: 80%;
+    width: 95%;
 }
 
 

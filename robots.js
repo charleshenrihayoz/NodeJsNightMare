@@ -68,6 +68,7 @@ var list_variable = ['http://www.anibis.ch/fr/default.aspx',
 
 io.on('connection', function (socket) {
     console.log('a user connected');
+    var list_function = nightmare.returnlist_function();
     var tableauString = [];
     for (var key in list_function) {
         tableauString.push(key);
@@ -75,11 +76,11 @@ io.on('connection', function (socket) {
     socket.emit('list_function', JSON.stringify(tableauString));
 
 });
-nightmare.startNightmare(list_execution, list_variable, callBackNightMare, io);
+//nightmare.startNightmare(list_execution, list_variable, callBackNightMare, io);
 
 function callBackNightMare (retour)
 {
-    console.log("callback "+ retour)
+    console.log("callback "+ retour);
     io.emit("nightmareFinish", retour);
 }
 io.on('executeNightmare', function (tableau) {

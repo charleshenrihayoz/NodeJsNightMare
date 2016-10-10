@@ -22,6 +22,7 @@ var list_function = {
     'getUrl()': getUrl,
     'getScreenShot()': getScreenShot,
     'back()': back,
+    'if(text, text, number)': "if",
     'insert(selector, text)': insert,
     'forward()': forward,
     'check(selector)': check,
@@ -99,11 +100,33 @@ var list_variable;
 var socket;
 var list_execution;
 
+function parseFunctions (list_exe)
+{
+  
+    for (var i =0; i < list_exe.length; i++)
+    {
+         var object = list_exe[i];
+         if (object["functionname"] =="if(text, text, number)")
+         {
+             if (object["paramaters"][0] === object["parameters"][1])
+             {
+                 list_exe.splice(index, 1);
+             }
+             else
+             {
+                 list_exe.splice(index, parseInt(object["parameters"][2]));
+             }
+         }
+    }
+    return list_exe;
+    
+}
  function  startNightMare(list_exe, list_var, callback, io)
 {
     list_variable = list_var;
     socket = io;
-    list_execution = list_exe;
+    list_execution = parseFunctions(list_exe);
+    
     if (nightmare != null)
     {
         nightmare.end();
@@ -114,7 +137,11 @@ var list_execution;
 }
 exports.startNightmare = startNightMare;
 
-
+function returnlist_function ()
+{
+    return list_function;
+}
+exports.returnlist_function = returnlist_function;
 function clickLinkWithText(txt)
 {
     return nightmare.evaluate(function (txt) {
