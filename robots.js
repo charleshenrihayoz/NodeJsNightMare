@@ -107,6 +107,13 @@ io.on('connection', function (socket) {
 
         });
     });
+    
+    socket.on('loadScript', function(data)
+    {
+        connection.query("SELECT * FROM scripts WHERE name='"+data+"'", function (err, rows, fields) {
+           socket.emit("loadScript", rows);
+        });
+    });
 
     socket.on('getListScript', function (name) {
         console.log(name);
