@@ -32,10 +32,10 @@ var list_function = {
     'replaceAllStringWith(oldText,newText)': replaceAllStringWith
 
 };
-
+var defaultwait = 2000;
 
 function * run() {
-    
+    try {
     yield nightmare.cookies.clearAll();
     var compteur = 0;
     for (var i = 0; i < list_execution.length; i++)
@@ -54,26 +54,48 @@ function * run() {
                     break;
                 case 2:
                     // yield nightmare.type(object['parameters'][0], object['parameters'][1]);
-                    console.log(object['functionname'] + "(" + list_variable[object['parameters'][0]] + "," + list_variable[object['parameters'][1]] + ")");
+                    
+                    //console.log(object['functionname'] + "(" + list_variable[object['parameters'][0]] + "," + list_variable[object['parameters'][1]] + ")");
                     yield list_function[object['functionname']](list_variable[object['parameters'][0]], list_variable[object['parameters'][1]]);
+                    break;
+                  case 3:
+                    // yield nightmare.type(object['parameters'][0], object['parameters'][1]);
+                    
+                    //console.log(object['functionname'] + "(" + list_variable[object['parameters'][0]] + "," + list_variable[object['parameters'][1]] + ")");
+                    yield list_function[object['functionname']](list_variable[object['parameters'][0]], list_variable[object['parameters'][1]],list_variable[object['parameters'][2]]);
 
                     break;
             }
             ;
+            yield waitTime (defaultwait);
             socket.emit ("complete", compteur);
             compteur ++;
         } catch (e)
         {
-            yield nightmare.end();
+            
             console.log(e);
-            return (false);
+            socket.emit ("messageNightmare", e);
+            socket.emit ("error", compteur);
+            if (nightmare != null)
+    {
+        yield nightmare.end();
+    }
+            compteur ++;
+             console.log("fini");
+            return false;
+            
         }
 
     }
 
-
+    
     console.log("fini");
-
+    if (nightmare != null)
+    {
+        yield nightmare.end();
+    }
+    
+     socket.emit ("messageNightmare", "finish");
     // Aller la page (URL to GET)
 
     /*   yield list_function['click']('#placeHolder-search-btn');
@@ -83,9 +105,14 @@ function * run() {
      yield list_function['type']('input #search-box', 'github nightmare \u000d');
      yield list_function['wait']('#main');
      yield list_function['end']();*/
-                return true;
-}
-;
+        return true;
+     } catch (e)
+        {
+             socket.emit ("messageNightmare", e);
+            console.log(e);
+            return (false);
+        }
+};
 
 /*urlsToGet.forEach(function (url) {
  nightmare.goto(url).catch(function (error) {
@@ -197,20 +224,34 @@ function exist(element)
 }
 
 
+var fs = require('fs');
 
 function upload(element, base64)
 {
+    var p1 = new Promise(function(resolve, reject) {
+  resolve("Succès !");
+  // ou
+  // reject("Erreur !");
+});
+    if (base64.length > 0)
+    {
     var image = base64;
-    var extension = base64.substr(base64.indexof("/")+1, base64.indexof(";")-base64.indexof("/")+1);
+    var extension = base64.substr(base64.indexOf("/")+1, base64.indexOf(";")-base64.indexOf("/")-1);
     
     var data = image.replace(/^data:image\/\w+;base64,/, '');
-
-    fs.writeFile("temp."+extension, data, {encoding: 'base64'}, function(err){
-        console.log(err);
-        path = __dirname + "temp."+extension;
-        return nightmare.upload(element, path);
-    });
-    
+    var path = __dirname + "temp."+extension;
+    return new Promise(function(resolve, reject) {
+    fs.writeFile(path, data, {encoding: 'base64'}, function(err){
+         if (err) reject(err);
+               else resolve(data);
+            });
+       
+    }).then(function(results) {
+       return nightmare.upload(element, path);
+});
+   
+}
+return p1;
 }
 
 function click(element)

@@ -81,58 +81,75 @@ var list_variable = ['http://www.anibis.ch/fr/default.aspx',
     'input[name="image"]', '\\images\\2.png',
     'input[name="image"]', '\\images\\3.png'];
 
-
+var pileDAppel = [];
 io.on('connection', function (socket) {
 
     console.log('a user connected');
     
-    socket.on('getListScript', function (message) {
-        connection.query('SELECT name from scripts', function (err, rows, fields) {
-            socket.emit("listScript", message);
-
-        });
-    });
+   
     socket.on('executeNightmare', function (tableau) {
-        nightmare.startNightmare(tableau["list_execution"], tableau["list_variable"], callBackNightMare, io);
+        tableau = JSON.parse(tableau);
+        //console.log(tableau);
+        if (nightmareInExecution)
+        {
+            var temp = {};
+            temp.functions_list = tableau["functions_list"];
+            temp.params_list = tableau["params_list"];
+            pileDAppel.push(temp);
+        }
+        else
+        {
+            nightmareInExecution = true;
+            nightmare.startNightmare(tableau["functions_list"], tableau["params_list"], callBackNightMare, io);
+        }
+        
         // On récupère le pseudo de celui qui a cliqué dans les variables de session
 
     });
 
     socket.on('saveScript', function (data) {
-       
-        
-        connection.query("INSERT INTO scripts (fk_cat, functions_list, params_list, variables_list, name) VALUES ("+
-                1+",'"+  JSON.stringify(data.functions_list)+"','"+  JSON.stringify(data.params_list)+"','"+ JSON.stringify(data.variables_list)+"','"+ data.name+"')", function (err, rows, fields) {
+      
+        connection.query("DELETE FROM scripts WHERE name = '"+data.name+"'", function (err, rows, fields) {
+             connection.query('INSERT INTO scripts (fk_cat, functions_list, params_list, variables_list, name) VALUES ("'+
+                1+'",'+  connection.escape(JSON.stringify(data.functions_list))+','+  connection.escape(JSON.stringify(data.params_list))+','+ connection.escape(JSON.stringify(data.variables_list))+',"'+ data.name+'")', function (err, rows, fields) {
             console.log(err);
 
         });
+
+        });
+       
     });
     
     socket.on('loadScript', function(data)
     {
+       
         connection.query("SELECT * FROM scripts WHERE name='"+data+"'", function (err, rows, fields) {
-           socket.emit("loadScript", rows);
+            
+         
+           socket.emit("loadScript", JSON.stringify(rows));
         });
     });
 
-    socket.on('getListScript', function (name) {
-        console.log(name);
-        /*connection.query('SELECT name from scripts', function(err, rows, fields) {
-         connection.end();
-         console.log(rows);
-         
-         });*/
+   socket.on('list_script', function(data)
+    {
+        emitList_Script ();
     });
 
-    socket.on('getScript', function (name) {
-        
-
-    });
-    
+ 
+    emitList_Script ();
 
     emitList_Function();
+    
 
 });
+var nightmareInExecution = false;
+function emitList_Script ()
+{
+    connection.query('SELECT name from scripts', function (err, rows, fields) {
+            io.emit("listScript", JSON.stringify(rows));
+
+        });
+}
 
 function emitList_Function ()
 {
@@ -148,12 +165,20 @@ function emitList_Function ()
 
 function callBackNightMare(retour)
 {
+    
     console.log("callback " + retour);
     io.emit("nightmareFinish", retour);
+    if (pileDAppel.length> 0)
+    {
+        nightmareInExecution = true;
+        nightmare.startNightmare(pileDAppel[0].functions_list, pileDAppel[0].params_list, callBackNightMare, io);
+        pileDAppel.splice(0,1);
+    }
+    else
+    {
+        nightmareInExecution = false;
+    }
 }
-
-
-
 
 
 

@@ -10,8 +10,14 @@ and open the template in the editor.
 
 .list_function {
     width: 20%;
-    float: left;
+    
     text-align:center;
+     position: fixed;
+    top: 100px;
+}
+
+#loadselect {
+    width: 150px;
 }
 
 .variables {
@@ -56,14 +62,31 @@ and open the template in the editor.
 
 .button {
     cursor: pointer;
+  
+}
+
+.menubloc {
+    float:right;
+}
+
+#errormessage {
+    background-color: red;
+    
+}
+
+.indication {
+    float: left;
+    display: none;
 }
 
 .constructor p {
 
     text-align:center;
+    
 }
 .constructor {
     width: 60%;
+    margin-left: 20%;
     float: left;
     text-align:center;
     
