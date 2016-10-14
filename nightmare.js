@@ -220,7 +220,11 @@ function goTo(url)
 }
 function exist(element)
 {
-    return nightmare.exists(element);
+    return nightmare.exists(element).then(function(result)
+    {
+        console.log(result);
+        return result;
+    });
 }
 
 

@@ -36,6 +36,10 @@ app.get('/', function (req, res) {
     res.render('index.ejs');
 });
 
+app.get('/automationPetitesAnnonces', function (req, res) {
+    res.render('automationPetitesAnnonces.ejs');
+});
+
 
 
 var list_execution = [
@@ -116,6 +120,26 @@ io.on('connection', function (socket) {
 
         });
 
+        });
+       
+    });
+    
+    socket.on('saveProduct', function (data) {
+      
+        connection.query('INSERT INTO products (fk_categorie, data) VALUES ("'+
+                1+'",'+  connection.escape(data)+'")', function (err, rows, fields) {
+            console.log(err);
+
+        });
+       
+    });
+    
+    socket.on('getMyProducts', function (data) {
+        var data = JSON.parse(data);
+         connection.query("SELECT * FROM products", function (err, rows, fields) {
+            
+         
+           socket.emit("products", JSON.stringify(rows));
         });
        
     });
