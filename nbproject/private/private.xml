@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/www/NodeJsNightMare/webscrapper.js</file>
             <file>file:/C:/www/NodeJsNightMare/robots.js</file>
+            <file>file:/C:/www/NodeJsNightMare/public/javascript/headlessbrowser.js</file>
+            <file>file:/C:/www/NodeJsNightMare/public/css/squelette.css</file>
             <file>file:/C:/www/NodeJsNightMare/nightmare.js</file>
+            <file>file:/C:/www/NodeJsNightMare/views/index.ejs</file>
         </group>
     </open-files>
 </project-private>
