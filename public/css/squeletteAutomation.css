@@ -17,6 +17,44 @@ and open the template in the editor.
     text-align: center;
 }
 
+.fa {
+    margin-right: 20px;
+}
+
+#produits span img {
+    width: 100%;
+}
+
+.site {
+    border: 1px solid;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.site img {
+    width: 100%;
+    margin-bottom: 20px;
+     margin-top: 20px;
+}
+
+.product {
+    border: 1px solid;
+    width: 24%;
+    margin: 1%;
+    float: left;
+    padding: 10px;
+}
+
+.product input {
+    width: 100%;
+    margin: 5px;
+}
+
+.product textarea{
+    max-width: 100%;
+        margin: 5px;
+    
+}
 
 #produits {
     width: 80%;

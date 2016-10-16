@@ -207,8 +207,20 @@ function codeGenerator(save) {
                 if (!save)
                 {
                     str = str.substring(4);
-                    console.log(str);
+                    
                     str = list_entrance[str];
+                    if (str != null)
+                    {
+                         //str = str.replace(/\\n/g,'\u000d');
+                    }
+                    else
+                    {
+                        str = "";
+                    }
+                       
+                    
+                   
+                   
 
                 }
 

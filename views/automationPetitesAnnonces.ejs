@@ -7,23 +7,36 @@
         <script src="javascript/jquery.min.js"></script>
         <script src="/socket.io/socket.io.js"></script>
 
-        <script src="javascript/headlessbrowser.js"></script>
+        <script src="javascript/petitesannonces.js"></script>
 
     </head>
     <body>
 
         <div id='title'><h1>Automation</h1>
-           
+
         </div>
         <div id="container">
             <div id="produits">
-                <h2> Mes produits /services </h2>
+                <h2> Mes produits /services <button  id='addProduct' onClick='addProduct()'>Add</button></h2>
+                 
             </div>
             <div id="site">
                 <h2> Publier sur </h2>
+                <div class="site">
+                   
+                    <img src="http://www.anibis.ch/_Frontend/Anibis-Desktop/build/img/anibis-logo.svg"/>
+                    <button onClick="publish('AnibisAjouter')"> Publier </button>
+                    
+                </div>
+                <div class="site">
+                   
+                    <img src="http://www.petitesannonces.ch/im/logo.png"/>
+                    <button  onClick="publish('PetitesAnnoncesAdd')">> Publier </button>
+                    
+                </div>
             </div>
         </div>
-        
+
 
 
 

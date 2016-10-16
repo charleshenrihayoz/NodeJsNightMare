@@ -77,8 +77,8 @@ function * run() {
             socket.emit ("messageNightmare", e);
             socket.emit ("error", compteur);
             if (nightmare != null)
-    {
-        yield nightmare.end();
+            {
+       yield nightmare.end();
     }
             compteur ++;
              console.log("fini");
@@ -160,6 +160,7 @@ function parseFunctions (list_exe)
     }
     nightmare = Nightmare({show: true})
             .useragent('Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25');
+    nightmare.viewport(400, 700);
     vo(run).then(out => callback(out));
 }
 exports.startNightmare = startNightMare;
@@ -243,7 +244,7 @@ function upload(element, base64)
     var extension = base64.substr(base64.indexOf("/")+1, base64.indexOf(";")-base64.indexOf("/")-1);
     
     var data = image.replace(/^data:image\/\w+;base64,/, '');
-    var path = __dirname + "temp."+extension;
+    var path = __dirname + "\\temp."+extension;
     return new Promise(function(resolve, reject) {
     fs.writeFile(path, data, {encoding: 'base64'}, function(err){
          if (err) reject(err);
@@ -264,6 +265,7 @@ function click(element)
 }
 function type(element, txt)
 {
+    txt = txt.replace(new RegExp('\\r?\\n','g'), '\u000d');
     return nightmare.type(element, txt);
 }
 function waitFor(element)

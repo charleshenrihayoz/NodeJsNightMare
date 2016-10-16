@@ -124,10 +124,28 @@ io.on('connection', function (socket) {
        
     });
     
+    socket.on ('updateProduct', function (data) {
+        var dat = JSON.parse(data);
+        
+        connection.query('UPDATE products SET data='+  connection.escape(JSON.stringify(dat.data))+' WHERE id='+ parseInt(dat.id), function (err, rows, fields) {
+            console.log(err);
+
+        });
+       
+    });
+    socket.on ('deleteProduct', function (data) {
+        
+        
+        connection.query('DELETE FROM products WHERE id="'+ parseInt(data)+'"', function (err, rows, fields) {
+            console.log(err);
+
+        });
+       
+    });
     socket.on('saveProduct', function (data) {
       
-        connection.query('INSERT INTO products (fk_categorie, data) VALUES ("'+
-                1+'",'+  connection.escape(data)+'")', function (err, rows, fields) {
+        connection.query('INSERT INTO products (fk_categorie, data) VALUES ('+
+                1+','+  connection.escape(data)+')', function (err, rows, fields) {
             console.log(err);
 
         });
@@ -135,7 +153,7 @@ io.on('connection', function (socket) {
     });
     
     socket.on('getMyProducts', function (data) {
-        var data = JSON.parse(data);
+        //var data = JSON.parse(data);
          connection.query("SELECT * FROM products", function (err, rows, fields) {
             
          
